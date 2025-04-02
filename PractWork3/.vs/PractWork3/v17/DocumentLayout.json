@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\THUNDER\\source\\repos\\PractWork3\\",
+  "WorkspaceRootPath": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\PractWork3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0684907A-750F-47BD-8637-EF90A5A9082C}|PractWork3\\PractWork3.csproj|c:\\users\\thunder\\source\\repos\\practwork3\\practwork3\\readwriteworddocumentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0684907A-750F-47BD-8637-EF90A5A9082C}|PractWork3\\PractWork3.csproj|solutionrelative:practwork3\\readwriteworddocumentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0684907A-750F-47BD-8637-EF90A5A9082C}|PractWork3\\PractWork3.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\mdk.01.01\\practwork3\\practwork3\\createworddocumentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0684907A-750F-47BD-8637-EF90A5A9082C}|PractWork3\\PractWork3.csproj|solutionrelative:practwork3\\createworddocumentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0684907A-750F-47BD-8637-EF90A5A9082C}|PractWork3\\PractWork3.csproj|c:\\users\\thunder\\source\\repos\\practwork3\\practwork3\\readwriteworddocumentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0684907A-750F-47BD-8637-EF90A5A9082C}|PractWork3\\PractWork3.csproj|solutionrelative:practwork3\\readwriteworddocumentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0684907A-750F-47BD-8637-EF90A5A9082C}|PractWork3\\PractWork3.csproj|C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\PractWork3\\practwork3\\createworddocumentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0684907A-750F-47BD-8637-EF90A5A9082C}|PractWork3\\PractWork3.csproj|solutionrelative:practwork3\\createworddocumentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0684907A-750F-47BD-8637-EF90A5A9082C}|PractWork3\\PractWork3.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\mdk.01.01\\practwork3\\practwork3\\wordmeneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0684907A-750F-47BD-8637-EF90A5A9082C}|PractWork3\\PractWork3.csproj|solutionrelative:practwork3\\wordmeneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +22,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WordMeneger.cs",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\PractWork3\\PractWork3\\WordMeneger.cs",
+              "RelativeDocumentMoniker": "PractWork3\\WordMeneger.cs",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\PractWork3\\PractWork3\\WordMeneger.cs",
+              "RelativeToolTip": "PractWork3\\WordMeneger.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwDsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T18:56:41.387Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ReadWriteWordDocumentForm.cs",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\source\\repos\\PractWork3\\PractWork3\\ReadWriteWordDocumentForm.cs",
-              "RelativeDocumentMoniker": "PractWork3\\ReadWriteWordDocumentForm.cs",
-              "ToolTip": "C:\\Users\\THUNDER\\source\\repos\\PractWork3\\PractWork3\\ReadWriteWordDocumentForm.cs",
-              "RelativeToolTip": "PractWork3\\ReadWriteWordDocumentForm.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwDEAAAAdAAAAAAAAAA==",
+              "Title": "CreateWordDocumentForm.cs",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\PractWork3\\PractWork3\\CreateWordDocumentForm.cs",
+              "RelativeDocumentMoniker": "PractWork3\\CreateWordDocumentForm.cs",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\PractWork3\\PractWork3\\CreateWordDocumentForm.cs",
+              "RelativeToolTip": "PractWork3\\CreateWordDocumentForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T16:36:04.425Z",
               "EditorCaption": ""
@@ -36,14 +52,13 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ReadWriteWordDocumentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\source\\repos\\PractWork3\\PractWork3\\ReadWriteWordDocumentForm.cs",
-              "RelativeDocumentMoniker": "PractWork3\\ReadWriteWordDocumentForm.cs",
-              "ToolTip": "C:\\Users\\THUNDER\\source\\repos\\PractWork3\\PractWork3\\ReadWriteWordDocumentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "PractWork3\\ReadWriteWordDocumentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Title": "CreateWordDocumentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\PractWork3\\PractWork3\\CreateWordDocumentForm.cs",
+              "RelativeDocumentMoniker": "PractWork3\\CreateWordDocumentForm.cs",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\PractWork3\\PractWork3\\CreateWordDocumentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "PractWork3\\CreateWordDocumentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T16:35:50.426Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2025-04-02T16:35:50.426Z"
             }
           ]
         }

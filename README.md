@@ -11,3 +11,4 @@ Zakhar Lukanin
 * git config --local user.name "Zakhar Lukanin"
 * git config --local user.email "zaharlukanin19@gmail.com"
 * git commit -am "override README file"
+* git clone https://github.com/Skverno-Slov/MDK.01.01.git
