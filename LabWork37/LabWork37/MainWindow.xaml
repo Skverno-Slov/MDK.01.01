@@ -1,0 +1,88 @@
+﻿<Window x:Class="LabWork37.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LabWork37"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <DockPanel>
+
+        <StackPanel Orientation="Horizontal" VerticalAlignment="Center" DockPanel.Dock="Top">
+            <Label Content="Имя файла:" VerticalAlignment="Center"/>
+            <TextBox x:Name="NameFilterTextBox" Width="200"
+                             TextChanged="TextBoxNameFilter_TextChanged"/>
+            <Button Content="Сбросить фильтр"
+                            Click="ButtonResetFilter_Click"/>
+            <TextBlock x:Name="CountLabel" Text="Показано 0 из 0 записей"/>
+        </StackPanel>
+
+        <StackPanel DockPanel.Dock="Top">
+            <StackPanel Orientation="Horizontal">
+                <RadioButton x:Name="AllSizesRadioButton" Content="Все файлы" IsChecked="True"
+                                     Checked="RadioButtonSize_Checked"/>
+                <RadioButton x:Name="MoreOrEqualRadioButton" Content="Больше или равно" Margin="10,0,0,0"
+                                     Checked="RadioButtonSize_Checked"/>
+                <RadioButton x:Name="LessOrEqualRadioButton" Content="Меньше или равно" Margin="10,0,0,0"
+                                     Checked="RadioButtonSize_Checked"/>
+                <TextBox x:Name="SizeTextBox" Width="100" Margin="5,0"
+                                 Text="0"/>
+            </StackPanel>
+        </StackPanel>
+
+        <StackPanel DockPanel.Dock="Top">
+            <StackPanel Orientation="Vertical" >
+                <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                    <CheckBox x:Name="MinSizeCheckBox" Content="Больше или равно" Checked="CheckBoxSize_Checked"
+                                      Unchecked="CheckBoxSize_Checked"/>
+                    <TextBox x:Name="TextBoxMinSize" Width="100"
+                                     Text="0"
+                                     LostFocus="TextBoxMaxSizeCheckbox_LostFocus"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" VerticalAlignment="Center" Margin="0,5,0,0">
+                    <CheckBox x:Name="MaxSizeCheckBox" Content="Меньше или равно" Checked="CheckBoxSize_Checked"
+                                      Unchecked="CheckBoxSize_Checked"/>
+                    <TextBox x:Name="TextBoxMaxSize" Width="100" Margin="5,0"
+                                     Text="0"
+                                     LostFocus="TextBoxMaxSizeCheckbox_LostFocus"/>
+                </StackPanel>
+            </StackPanel>
+        </StackPanel>
+
+        <StackPanel DockPanel.Dock="Top">
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                <CheckBox x:Name="ShowAfterCheckBox" Content="Фильтер по дате"
+                                  Checked="CheckBoxShowAfter_Checked" Unchecked="CheckBoxShowAfter_Checked"/>
+                <DatePicker x:Name="ChangeDatePicker"
+                                    SelectedDateChanged="DatePickerChange_SelectedDateChanged"/>
+            </StackPanel>
+        </StackPanel>
+
+        <StackPanel DockPanel.Dock="Top">
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Период:" VerticalAlignment="Center"/>
+                <ComboBox x:Name="CreateDateComboBox" Width="200"
+                                  SelectionChanged="ComboBoxCreateDate_SelectionChanged">
+                    <ComboBoxItem Content="Сегодня"/>
+                    <ComboBoxItem Content="За последнюю неделю"/>
+                    <ComboBoxItem Content="В этом месяце"/>
+                </ComboBox>
+            </StackPanel>
+        </StackPanel>
+
+        <ListView x:Name="FilesListView"
+                  ScrollViewer.VerticalScrollBarVisibility="Auto"
+                  ScrollViewer.HorizontalScrollBarVisibility="Auto">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Имя файла" Width="150" DisplayMemberBinding="{Binding Name}"/>
+                    <GridViewColumn Header="Расширение" Width="80" DisplayMemberBinding="{Binding Extension}"/>
+                    <GridViewColumn Header="Путь" Width="300" DisplayMemberBinding="{Binding Path}"/>
+                    <GridViewColumn Header="Размер" Width="80" DisplayMemberBinding="{Binding Size}"/>
+                    <GridViewColumn Header="Дата создания" Width="150" DisplayMemberBinding="{Binding CreationTime}"/>
+                    <GridViewColumn Header="Дата изменения" Width="150" DisplayMemberBinding="{Binding LastWriteTime}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </DockPanel>
+</Window>

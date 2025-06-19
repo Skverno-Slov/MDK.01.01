@@ -1,0 +1,51 @@
+﻿using DbLibrary.Models;
+using DbLibrary.Repositories;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.ViewEngines;
+
+// For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+
+namespace TestWebApplication.Controllers
+{
+    [Route("api/[controller]")]
+    [ApiController]
+    public class GamesController(GamesRepository repository) : ControllerBase
+    {
+        private readonly GamesRepository _repository = repository;
+
+        // GET: api/<GamesController>
+        [HttpGet]
+        public IActionResult Get()
+            => Ok(_repository.GetAll());
+
+        // GET api/<GamesController>/5
+        [HttpGet("{id}")]
+        public IActionResult Get(int id)
+            => Ok(_repository.GetById(id));
+
+        // POST api/<GamesController>
+        [HttpPost]
+        public void Post([FromBody] string value)
+        {
+        }
+
+        // PUT api/<GamesController>/5
+        [HttpPut("{id}")]
+        public IActionResult Put(int id, [FromBody] Game game)
+        {
+            if (id != game.Id)
+                return NotFound();
+
+            _repository.Update(game);
+            return NoContent();
+        }
+
+        // DELETE api/<GamesController>/5
+        [HttpDelete("{id}")]
+        public IActionResult Delete(int id)
+        {
+            _repository.Delete(id);
+            return NoContent();
+        }
+    }
+}

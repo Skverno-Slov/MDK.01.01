@@ -1,0 +1,13 @@
+C:\Users\THUNDER\OneDrive\Desktop\Repositories\MDK.01.01\LabWork47\DbLibrary\bin\Debug\net8.0\DbLibrary.deps.json
+C:\Users\THUNDER\OneDrive\Desktop\Repositories\MDK.01.01\LabWork47\DbLibrary\bin\Debug\net8.0\DbLibrary.dll
+C:\Users\THUNDER\OneDrive\Desktop\Repositories\MDK.01.01\LabWork47\DbLibrary\bin\Debug\net8.0\DbLibrary.pdb
+C:\Users\THUNDER\OneDrive\Desktop\Repositories\MDK.01.01\LabWork47\DbLibrary\obj\Debug\net8.0\DbLibrary.csproj.AssemblyReference.cache
+C:\Users\THUNDER\OneDrive\Desktop\Repositories\MDK.01.01\LabWork47\DbLibrary\obj\Debug\net8.0\DbLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THUNDER\OneDrive\Desktop\Repositories\MDK.01.01\LabWork47\DbLibrary\obj\Debug\net8.0\DbLibrary.AssemblyInfoInputs.cache
+C:\Users\THUNDER\OneDrive\Desktop\Repositories\MDK.01.01\LabWork47\DbLibrary\obj\Debug\net8.0\DbLibrary.AssemblyInfo.cs
+C:\Users\THUNDER\OneDrive\Desktop\Repositories\MDK.01.01\LabWork47\DbLibrary\obj\Debug\net8.0\DbLibrary.csproj.CoreCompileInputs.cache
+C:\Users\THUNDER\OneDrive\Desktop\Repositories\MDK.01.01\LabWork47\DbLibrary\obj\Debug\net8.0\DbLibrary.sourcelink.json
+C:\Users\THUNDER\OneDrive\Desktop\Repositories\MDK.01.01\LabWork47\DbLibrary\obj\Debug\net8.0\DbLibrary.dll
+C:\Users\THUNDER\OneDrive\Desktop\Repositories\MDK.01.01\LabWork47\DbLibrary\obj\Debug\net8.0\refint\DbLibrary.dll
+C:\Users\THUNDER\OneDrive\Desktop\Repositories\MDK.01.01\LabWork47\DbLibrary\obj\Debug\net8.0\DbLibrary.pdb
+C:\Users\THUNDER\OneDrive\Desktop\Repositories\MDK.01.01\LabWork47\DbLibrary\obj\Debug\net8.0\ref\DbLibrary.dll
