@@ -8,23 +8,23 @@
     "net9.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\THUNDER\\.nuget\\packages\\": {},
+    "C:\\Users\\0109-14\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\PractWork3\\PractWork3\\PractWork3.csproj",
+      "projectUniqueName": "C:\\temp\\ispp31\\PractWorks\\PractWork3\\PractWork3\\PractWork3.csproj",
       "projectName": "PractWork3",
-      "projectPath": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\PractWork3\\PractWork3\\PractWork3.csproj",
-      "packagesPath": "C:\\Users\\THUNDER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\PractWork3\\PractWork3\\obj\\",
+      "projectPath": "C:\\temp\\ispp31\\PractWorks\\PractWork3\\PractWork3\\PractWork3.csproj",
+      "packagesPath": "C:\\Users\\0109-14\\.nuget\\packages\\",
+      "outputPath": "C:\\temp\\ispp31\\PractWorks\\PractWork3\\PractWork3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\THUNDER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\0109-14\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -33,6 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -49,7 +50,7 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "all"
+        "auditMode": "direct"
       },
       "SdkAnalysisLevel": "9.0.100"
     },
@@ -75,7 +76,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

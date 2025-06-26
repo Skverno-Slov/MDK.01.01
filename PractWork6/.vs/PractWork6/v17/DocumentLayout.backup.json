@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\ispp31\\PractWorks\\PractWork6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCDC119-E156-4031-AD74-FCF9EBC18D08}|Task1\\Task1.csproj|c:\\temp\\ispp31\\practworks\\practwork6\\task1\\currenttimeviewer.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DCDC119-E156-4031-AD74-FCF9EBC18D08}|Task1\\Task1.csproj|solutionrelative:task1\\currenttimeviewer.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCDC119-E156-4031-AD74-FCF9EBC18D08}|Task1\\Task1.csproj|c:\\temp\\ispp31\\practworks\\practwork6\\task1\\currenttimeviewer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3DCDC119-E156-4031-AD74-FCF9EBC18D08}|Task1\\Task1.csproj|solutionrelative:task1\\currenttimeviewer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCDC119-E156-4031-AD74-FCF9EBC18D08}|Task1\\Task1.csproj|c:\\temp\\ispp31\\practworks\\practwork6\\task1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DCDC119-E156-4031-AD74-FCF9EBC18D08}|Task1\\Task1.csproj|solutionrelative:task1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCDC119-E156-4031-AD74-FCF9EBC18D08}|Task1\\Task1.csproj|c:\\temp\\ispp31\\practworks\\practwork6\\task1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3DCDC119-E156-4031-AD74-FCF9EBC18D08}|Task1\\Task1.csproj|solutionrelative:task1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCDC119-E156-4031-AD74-FCF9EBC18D08}|Task1\\Task1.csproj|c:\\temp\\ispp31\\practworks\\practwork6\\task1\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DCDC119-E156-4031-AD74-FCF9EBC18D08}|Task1\\Task1.csproj|solutionrelative:task1\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 130,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CurrentTimeViewer.xaml.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\PractWorks\\PractWork6\\Task1\\CurrentTimeViewer.xaml.cs",
+              "RelativeDocumentMoniker": "Task1\\CurrentTimeViewer.xaml.cs",
+              "ToolTip": "C:\\temp\\ispp31\\PractWorks\\PractWork6\\Task1\\CurrentTimeViewer.xaml.cs*",
+              "RelativeToolTip": "Task1\\CurrentTimeViewer.xaml.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwB0AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T10:39:01.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CurrentTimeViewer.xaml",
+              "DocumentMoniker": "C:\\temp\\ispp31\\PractWorks\\PractWork6\\Task1\\CurrentTimeViewer.xaml",
+              "RelativeDocumentMoniker": "Task1\\CurrentTimeViewer.xaml",
+              "ToolTip": "C:\\temp\\ispp31\\PractWorks\\PractWork6\\Task1\\CurrentTimeViewer.xaml",
+              "RelativeToolTip": "Task1\\CurrentTimeViewer.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-31T10:38:59.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\PractWorks\\PractWork6\\Task1\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Task1\\AssemblyInfo.cs",
+              "ToolTip": "C:\\temp\\ispp31\\PractWorks\\PractWork6\\Task1\\AssemblyInfo.cs",
+              "RelativeToolTip": "Task1\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T09:55:25.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\temp\\ispp31\\PractWorks\\PractWork6\\Task1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Task1\\MainWindow.xaml",
+              "ToolTip": "C:\\temp\\ispp31\\PractWorks\\PractWork6\\Task1\\MainWindow.xaml",
+              "RelativeToolTip": "Task1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-31T09:24:46.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\PractWorks\\PractWork6\\Task1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Task1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\temp\\ispp31\\PractWorks\\PractWork6\\Task1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Task1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T09:24:44.741Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

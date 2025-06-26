@@ -1,0 +1,14 @@
+C:\Users\THUNDER\source\repos\лр2\лр2\bin\Debug\net9.0\лр2.exe
+C:\Users\THUNDER\source\repos\лр2\лр2\bin\Debug\net9.0\лр2.deps.json
+C:\Users\THUNDER\source\repos\лр2\лр2\bin\Debug\net9.0\лр2.runtimeconfig.json
+C:\Users\THUNDER\source\repos\лр2\лр2\bin\Debug\net9.0\лр2.dll
+C:\Users\THUNDER\source\repos\лр2\лр2\bin\Debug\net9.0\лр2.pdb
+C:\Users\THUNDER\source\repos\лр2\лр2\obj\Debug\net9.0\лр2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THUNDER\source\repos\лр2\лр2\obj\Debug\net9.0\лр2.AssemblyInfoInputs.cache
+C:\Users\THUNDER\source\repos\лр2\лр2\obj\Debug\net9.0\лр2.AssemblyInfo.cs
+C:\Users\THUNDER\source\repos\лр2\лр2\obj\Debug\net9.0\лр2.csproj.CoreCompileInputs.cache
+C:\Users\THUNDER\source\repos\лр2\лр2\obj\Debug\net9.0\лр2.dll
+C:\Users\THUNDER\source\repos\лр2\лр2\obj\Debug\net9.0\refint\лр2.dll
+C:\Users\THUNDER\source\repos\лр2\лр2\obj\Debug\net9.0\лр2.pdb
+C:\Users\THUNDER\source\repos\лр2\лр2\obj\Debug\net9.0\лр2.genruntimeconfig.cache
+C:\Users\THUNDER\source\repos\лр2\лр2\obj\Debug\net9.0\ref\лр2.dll

@@ -1,0 +1,288 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\ispp31\\LabWorks\\LabWork48\\LabWork47\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0834837B-2C65-4633-B1C1-F4C266FBEAE2}|TestPagesWeb\\TestPagesWeb.csproj|c:\\temp\\ispp31\\labworks\\labwork48\\labwork47\\testpagesweb\\pages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0834837B-2C65-4633-B1C1-F4C266FBEAE2}|TestPagesWeb\\TestPagesWeb.csproj|solutionrelative:testpagesweb\\pages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0834837B-2C65-4633-B1C1-F4C266FBEAE2}|TestPagesWeb\\TestPagesWeb.csproj|c:\\temp\\ispp31\\labworks\\labwork48\\labwork47\\testpagesweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0834837B-2C65-4633-B1C1-F4C266FBEAE2}|TestPagesWeb\\TestPagesWeb.csproj|solutionrelative:testpagesweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F36EA36-0F95-4475-8986-7EA82EC83E45}|TestWebApplication\\TestWebApplication.csproj|c:\\temp\\ispp31\\labworks\\labwork48\\labwork47\\testwebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F36EA36-0F95-4475-8986-7EA82EC83E45}|TestWebApplication\\TestWebApplication.csproj|solutionrelative:testwebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0834837B-2C65-4633-B1C1-F4C266FBEAE2}|TestPagesWeb\\TestPagesWeb.csproj|c:\\temp\\ispp31\\labworks\\labwork48\\labwork47\\testpagesweb\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0834837B-2C65-4633-B1C1-F4C266FBEAE2}|TestPagesWeb\\TestPagesWeb.csproj|solutionrelative:testpagesweb\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0834837B-2C65-4633-B1C1-F4C266FBEAE2}|TestPagesWeb\\TestPagesWeb.csproj|c:\\temp\\ispp31\\labworks\\labwork48\\labwork47\\testpagesweb\\pages\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0834837B-2C65-4633-B1C1-F4C266FBEAE2}|TestPagesWeb\\TestPagesWeb.csproj|solutionrelative:testpagesweb\\pages\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0834837B-2C65-4633-B1C1-F4C266FBEAE2}|TestPagesWeb\\TestPagesWeb.csproj|c:\\temp\\ispp31\\labworks\\labwork48\\labwork47\\testpagesweb\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0834837B-2C65-4633-B1C1-F4C266FBEAE2}|TestPagesWeb\\TestPagesWeb.csproj|solutionrelative:testpagesweb\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D17E30-3309-4475-A0A4-20826972F96C}|TestApiConsoleApp\\TestApiConsoleApp.csproj|c:\\temp\\ispp31\\labworks\\labwork48\\labwork47\\testapiconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D17E30-3309-4475-A0A4-20826972F96C}|TestApiConsoleApp\\TestApiConsoleApp.csproj|solutionrelative:testapiconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0834837B-2C65-4633-B1C1-F4C266FBEAE2}|TestPagesWeb\\TestPagesWeb.csproj|c:\\temp\\ispp31\\labworks\\labwork48\\labwork47\\testpagesweb\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0834837B-2C65-4633-B1C1-F4C266FBEAE2}|TestPagesWeb\\TestPagesWeb.csproj|solutionrelative:testpagesweb\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7566985C-ADD9-4561-9005-A8F8F4FE4189}|DbLibrary\\DbLibrary.csproj|c:\\temp\\ispp31\\labworks\\labwork48\\labwork47\\dblibrary\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7566985C-ADD9-4561-9005-A8F8F4FE4189}|DbLibrary\\DbLibrary.csproj|solutionrelative:dblibrary\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4C112E-C6D7-4FF6-9969-B88333846DE4}|TestConsoleApp1\\TestConsoleApp1.csproj|c:\\temp\\ispp31\\labworks\\labwork48\\labwork47\\testconsoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4C112E-C6D7-4FF6-9969-B88333846DE4}|TestConsoleApp1\\TestConsoleApp1.csproj|solutionrelative:testconsoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF568E7-1C55-472D-BE1F-7E77B1C227F0}|ApiService\\ApiService.csproj|c:\\temp\\ispp31\\labworks\\labwork48\\labwork47\\apiservice\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF568E7-1C55-472D-BE1F-7E77B1C227F0}|ApiService\\ApiService.csproj|solutionrelative:apiservice\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7566985C-ADD9-4561-9005-A8F8F4FE4189}|DbLibrary\\DbLibrary.csproj|c:\\temp\\ispp31\\labworks\\labwork48\\labwork47\\dblibrary\\services\\gamesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7566985C-ADD9-4561-9005-A8F8F4FE4189}|DbLibrary\\DbLibrary.csproj|solutionrelative:dblibrary\\services\\gamesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F36EA36-0F95-4475-8986-7EA82EC83E45}|TestWebApplication\\TestWebApplication.csproj|c:\\temp\\ispp31\\labworks\\labwork48\\labwork47\\testwebapplication\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F36EA36-0F95-4475-8986-7EA82EC83E45}|TestWebApplication\\TestWebApplication.csproj|solutionrelative:testwebapplication\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D17E30-3309-4475-A0A4-20826972F96C}|TestApiConsoleApp\\TestApiConsoleApp.csproj|c:\\temp\\ispp31\\labworks\\labwork48\\labwork47\\testapiconsoleapp\\testapiconsoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B2D17E30-3309-4475-A0A4-20826972F96C}|TestApiConsoleApp\\TestApiConsoleApp.csproj|solutionrelative:testapiconsoleapp\\testapiconsoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F36EA36-0F95-4475-8986-7EA82EC83E45}|TestWebApplication\\TestWebApplication.csproj|c:\\temp\\ispp31\\labworks\\labwork48\\labwork47\\testwebapplication\\testwebapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4F36EA36-0F95-4475-8986-7EA82EC83E45}|TestWebApplication\\TestWebApplication.csproj|solutionrelative:testwebapplication\\testwebapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF568E7-1C55-472D-BE1F-7E77B1C227F0}|ApiService\\ApiService.csproj|c:\\temp\\ispp31\\labworks\\labwork48\\labwork47\\apiservice\\apiservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ADF568E7-1C55-472D-BE1F-7E77B1C227F0}|ApiService\\ApiService.csproj|solutionrelative:apiservice\\apiservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 249,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\LabWorks\\LabWork48\\LabWork47\\TestWebApplication\\Program.cs",
+              "RelativeDocumentMoniker": "TestWebApplication\\Program.cs",
+              "ToolTip": "C:\\temp\\ispp31\\LabWorks\\LabWork48\\LabWork47\\TestWebApplication\\Program.cs",
+              "RelativeToolTip": "TestWebApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T08:10:31.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\temp\\ispp31\\LabWorks\\LabWork48\\LabWork47\\TestPagesWeb\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "TestPagesWeb\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\temp\\ispp31\\LabWorks\\LabWork48\\LabWork47\\TestPagesWeb\\Pages\\Error.cshtml",
+              "RelativeToolTip": "TestPagesWeb\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T06:57:18.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\LabWorks\\LabWork48\\LabWork47\\TestPagesWeb\\Pages\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "TestPagesWeb\\Pages\\Details.cshtml.cs",
+              "ToolTip": "C:\\temp\\ispp31\\LabWorks\\LabWork48\\LabWork47\\TestPagesWeb\\Pages\\Details.cshtml.cs",
+              "RelativeToolTip": "TestPagesWeb\\Pages\\Details.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T06:48:36.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\temp\\ispp31\\LabWorks\\LabWork48\\LabWork47\\TestPagesWeb\\Pages\\Details.cshtml",
+              "RelativeDocumentMoniker": "TestPagesWeb\\Pages\\Details.cshtml",
+              "ToolTip": "C:\\temp\\ispp31\\LabWorks\\LabWork48\\LabWork47\\TestPagesWeb\\Pages\\Details.cshtml",
+              "RelativeToolTip": "TestPagesWeb\\Pages\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T06:48:06.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\LabWorks\\LabWork48\\LabWork47\\TestPagesWeb\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "TestPagesWeb\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\temp\\ispp31\\LabWorks\\LabWork48\\LabWork47\\TestPagesWeb\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "TestPagesWeb\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T06:41:51.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\LabWorks\\LabWork48\\LabWork47\\DbLibrary\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "DbLibrary\\Models\\Game.cs",
+              "ToolTip": "C:\\temp\\ispp31\\LabWorks\\LabWork48\\LabWork47\\DbLibrary\\Models\\Game.cs",
+              "RelativeToolTip": "DbLibrary\\Models\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T06:40:00.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\LabWorks\\LabWork48\\LabWork47\\TestPagesWeb\\Program.cs",
+              "RelativeDocumentMoniker": "TestPagesWeb\\Program.cs",
+              "ToolTip": "C:\\temp\\ispp31\\LabWorks\\LabWork48\\LabWork47\\TestPagesWeb\\Program.cs",
+              "RelativeToolTip": "TestPagesWeb\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T06:37:06.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\temp\\ispp31\\LabWorks\\LabWork48\\LabWork47\\TestPagesWeb\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "TestPagesWeb\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\temp\\ispp31\\LabWorks\\LabWork48\\LabWork47\\TestPagesWeb\\Pages\\Index.cshtml",
+              "RelativeToolTip": "TestPagesWeb\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T06:35:41.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TestWebApplication.csproj",
+              "DocumentMoniker": "C:\\temp\\ispp31\\LabWorks\\LabWork48\\LabWork47\\TestWebApplication\\TestWebApplication.csproj",
+              "RelativeDocumentMoniker": "TestWebApplication\\TestWebApplication.csproj",
+              "ToolTip": "C:\\temp\\ispp31\\LabWorks\\LabWork48\\LabWork47\\TestWebApplication\\TestWebApplication.csproj",
+              "RelativeToolTip": "TestWebApplication\\TestWebApplication.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-14T06:03:09.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TestApiConsoleApp.csproj",
+              "DocumentMoniker": "C:\\temp\\ispp31\\LabWorks\\LabWork48\\LabWork47\\TestApiConsoleApp\\TestApiConsoleApp.csproj",
+              "RelativeDocumentMoniker": "TestApiConsoleApp\\TestApiConsoleApp.csproj",
+              "ToolTip": "C:\\temp\\ispp31\\LabWorks\\LabWork48\\LabWork47\\TestApiConsoleApp\\TestApiConsoleApp.csproj",
+              "RelativeToolTip": "TestApiConsoleApp\\TestApiConsoleApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-14T05:55:49.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\LabWorks\\LabWork48\\LabWork47\\TestApiConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "TestApiConsoleApp\\Program.cs",
+              "ToolTip": "C:\\temp\\ispp31\\LabWorks\\LabWork48\\LabWork47\\TestApiConsoleApp\\Program.cs",
+              "RelativeToolTip": "TestApiConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T05:52:14.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GamesController.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\LabWorks\\LabWork48\\LabWork47\\TestWebApplication\\Controllers\\GamesController.cs",
+              "RelativeDocumentMoniker": "TestWebApplication\\Controllers\\GamesController.cs",
+              "ToolTip": "C:\\temp\\ispp31\\LabWorks\\LabWork48\\LabWork47\\TestWebApplication\\Controllers\\GamesController.cs",
+              "RelativeToolTip": "TestWebApplication\\Controllers\\GamesController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAIwDcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T05:40:38.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApiService.csproj",
+              "DocumentMoniker": "C:\\temp\\ispp31\\LabWorks\\LabWork48\\LabWork47\\ApiService\\ApiService.csproj",
+              "RelativeDocumentMoniker": "ApiService\\ApiService.csproj",
+              "ToolTip": "C:\\temp\\ispp31\\LabWorks\\LabWork48\\LabWork47\\ApiService\\ApiService.csproj",
+              "RelativeToolTip": "ApiService\\ApiService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-14T05:37:53.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameService.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\LabWorks\\LabWork48\\LabWork47\\ApiService\\GameService.cs",
+              "RelativeDocumentMoniker": "ApiService\\GameService.cs",
+              "ToolTip": "C:\\temp\\ispp31\\LabWorks\\LabWork48\\LabWork47\\ApiService\\GameService.cs",
+              "RelativeToolTip": "ApiService\\GameService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T05:34:32.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GamesService.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\LabWorks\\LabWork48\\LabWork47\\DbLibrary\\Services\\GamesService.cs",
+              "RelativeDocumentMoniker": "DbLibrary\\Services\\GamesService.cs",
+              "ToolTip": "C:\\temp\\ispp31\\LabWorks\\LabWork48\\LabWork47\\DbLibrary\\Services\\GamesService.cs",
+              "RelativeToolTip": "DbLibrary\\Services\\GamesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T05:32:44.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\LabWorks\\LabWork48\\LabWork47\\TestConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "TestConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\temp\\ispp31\\LabWorks\\LabWork48\\LabWork47\\TestConsoleApp1\\Program.cs",
+              "RelativeToolTip": "TestConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T05:32:35.7Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

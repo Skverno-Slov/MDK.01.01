@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\ispp31\\LabWork9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68E9F3CC-92A3-4127-89DD-CA2640C6EBB2}|Task1\\Task1.csproj|c:\\temp\\ispp31\\labwork9\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E9F3CC-92A3-4127-89DD-CA2640C6EBB2}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E9F3CC-92A3-4127-89DD-CA2640C6EBB2}|Task1\\Task1.csproj|c:\\temp\\ispp31\\labwork9\\task1\\ellipse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E9F3CC-92A3-4127-89DD-CA2640C6EBB2}|Task1\\Task1.csproj|solutionrelative:task1\\ellipse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E9F3CC-92A3-4127-89DD-CA2640C6EBB2}|Task1\\Task1.csproj|c:\\temp\\ispp31\\labwork9\\task1\\ifigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E9F3CC-92A3-4127-89DD-CA2640C6EBB2}|Task1\\Task1.csproj|solutionrelative:task1\\ifigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E9F3CC-92A3-4127-89DD-CA2640C6EBB2}|Task1\\Task1.csproj|c:\\temp\\ispp31\\labwork9\\task1\\iprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E9F3CC-92A3-4127-89DD-CA2640C6EBB2}|Task1\\Task1.csproj|solutionrelative:task1\\iprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E9F3CC-92A3-4127-89DD-CA2640C6EBB2}|Task1\\Task1.csproj|c:\\temp\\ispp31\\labwork9\\task1\\subscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E9F3CC-92A3-4127-89DD-CA2640C6EBB2}|Task1\\Task1.csproj|solutionrelative:task1\\subscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 589,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IFigure.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\LabWork9\\Task1\\IFigure.cs",
+              "RelativeDocumentMoniker": "Task1\\IFigure.cs",
+              "ToolTip": "C:\\temp\\ispp31\\LabWork9\\Task1\\IFigure.cs",
+              "RelativeToolTip": "Task1\\IFigure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T11:15:22.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ellipse.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\LabWork9\\Task1\\Ellipse.cs",
+              "RelativeDocumentMoniker": "Task1\\Ellipse.cs",
+              "ToolTip": "C:\\temp\\ispp31\\LabWork9\\Task1\\Ellipse.cs",
+              "RelativeToolTip": "Task1\\Ellipse.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T10:58:54.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPrinter.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\LabWork9\\Task1\\IPrinter.cs",
+              "RelativeDocumentMoniker": "Task1\\IPrinter.cs",
+              "ToolTip": "C:\\temp\\ispp31\\LabWork9\\Task1\\IPrinter.cs",
+              "RelativeToolTip": "Task1\\IPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T10:43:26.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Subscriber.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\LabWork9\\Task1\\Subscriber.cs",
+              "RelativeDocumentMoniker": "Task1\\Subscriber.cs",
+              "ToolTip": "C:\\temp\\ispp31\\LabWork9\\Task1\\Subscriber.cs",
+              "RelativeToolTip": "Task1\\Subscriber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T10:41:16.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\LabWork9\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Task1\\Program.cs",
+              "ToolTip": "C:\\temp\\ispp31\\LabWork9\\Task1\\Program.cs",
+              "RelativeToolTip": "Task1\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T10:40:47.168Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

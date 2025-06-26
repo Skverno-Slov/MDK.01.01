@@ -1,0 +1,31 @@
+﻿<Window x:Class="Task1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task1"
+        mc:Ignorable="d"
+        Title="Задание 1" Height="450" Width="800">
+    <DockPanel>
+        <StackPanel Orientation="Horizontal" DockPanel.Dock="Top">
+            <Button x:Name="LoadImage"
+                Content="Загрузить изображение"
+                Click="LoadImage_Click"/>
+            <ComboBox x:Name="ColorPicker"
+                  Width="100"
+                  SelectedIndex="0" SelectionChanged="ColorPicker_SelectionChanged">
+                <ComboBoxItem>Black</ComboBoxItem>
+                <ComboBoxItem>Pink</ComboBoxItem>
+                <ComboBoxItem>Yellow</ComboBoxItem>
+                <ComboBoxItem>Green</ComboBoxItem>
+                <ComboBoxItem>Red</ComboBoxItem>
+            </ComboBox>
+            <Slider x:Name="PenSizeSlider"
+                Minimum="1" Maximum="20"
+                Value="5" Width="100"
+                ValueChanged="PenSizeSlider_ValueChanged"/>
+        </StackPanel>
+
+        <InkCanvas x:Name="DrawingCanvas"/>
+    </DockPanel>
+</Window>

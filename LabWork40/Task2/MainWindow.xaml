@@ -1,0 +1,31 @@
+﻿<Window x:Class="Task2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task2"
+        mc:Ignorable="d"
+        Title="Задание 2" Height="300" Width="300">
+    <StackPanel>
+        <Rectangle Width="50" Height="50" Fill="Red">
+            <Rectangle.RenderTransform>
+                <ScaleTransform ScaleX="2" ScaleY="1.5"/>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+
+        <Ellipse Width="50" Height="50" Fill="Blue">
+            <Ellipse.RenderTransform>
+                <RotateTransform Angle="45"/>
+            </Ellipse.RenderTransform>
+        </Ellipse>
+
+        <Rectangle Width="50" Height="50" Fill="Green">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="1.5" ScaleY="1.5"/>
+                    <RotateTransform Angle="30"/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+    </StackPanel>
+</Window>

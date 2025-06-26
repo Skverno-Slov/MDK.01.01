@@ -1,0 +1,15 @@
+C:\Users\Вячеслав\Desktop\MDK.01.01\LabWork14\Task3\bin\Debug\net9.0\Task3.exe
+C:\Users\Вячеслав\Desktop\MDK.01.01\LabWork14\Task3\bin\Debug\net9.0\Task3.deps.json
+C:\Users\Вячеслав\Desktop\MDK.01.01\LabWork14\Task3\bin\Debug\net9.0\Task3.runtimeconfig.json
+C:\Users\Вячеслав\Desktop\MDK.01.01\LabWork14\Task3\bin\Debug\net9.0\Task3.dll
+C:\Users\Вячеслав\Desktop\MDK.01.01\LabWork14\Task3\bin\Debug\net9.0\Task3.pdb
+C:\Users\Вячеслав\Desktop\MDK.01.01\LabWork14\Task3\obj\Debug\net9.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вячеслав\Desktop\MDK.01.01\LabWork14\Task3\obj\Debug\net9.0\Task3.AssemblyInfoInputs.cache
+C:\Users\Вячеслав\Desktop\MDK.01.01\LabWork14\Task3\obj\Debug\net9.0\Task3.AssemblyInfo.cs
+C:\Users\Вячеслав\Desktop\MDK.01.01\LabWork14\Task3\obj\Debug\net9.0\Task3.csproj.CoreCompileInputs.cache
+C:\Users\Вячеслав\Desktop\MDK.01.01\LabWork14\Task3\obj\Debug\net9.0\Task3.sourcelink.json
+C:\Users\Вячеслав\Desktop\MDK.01.01\LabWork14\Task3\obj\Debug\net9.0\Task3.dll
+C:\Users\Вячеслав\Desktop\MDK.01.01\LabWork14\Task3\obj\Debug\net9.0\refint\Task3.dll
+C:\Users\Вячеслав\Desktop\MDK.01.01\LabWork14\Task3\obj\Debug\net9.0\Task3.pdb
+C:\Users\Вячеслав\Desktop\MDK.01.01\LabWork14\Task3\obj\Debug\net9.0\Task3.genruntimeconfig.cache
+C:\Users\Вячеслав\Desktop\MDK.01.01\LabWork14\Task3\obj\Debug\net9.0\ref\Task3.dll

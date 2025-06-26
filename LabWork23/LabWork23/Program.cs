@@ -1,0 +1,11 @@
+﻿using LabWorkLibrary;
+Console.WriteLine(Maths.BinaryFactor);
+Console.WriteLine(Maths.Sum(2, 3));
+Console.WriteLine(Maths.Subtract(3, 3));
+Console.WriteLine(Maths.Multiplay(3, 3));
+Console.WriteLine(Maths.Divide(6, 2));
+Console.WriteLine(Maths.GetArea(3, -1));
+User user = new();
+user.Login = "admin";
+user.Password = "qwerty";
+user.Role = Role.Administrator;

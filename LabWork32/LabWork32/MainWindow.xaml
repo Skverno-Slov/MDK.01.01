@@ -1,0 +1,63 @@
+﻿<Window x:Class="LabWork32.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LabWork32"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+<Grid>
+    <Grid.ColumnDefinitions>
+        <ColumnDefinition Width="300"/>
+        <ColumnDefinition Width="350"/>
+        <ColumnDefinition Width="*"/>
+    </Grid.ColumnDefinitions>
+    <Grid.RowDefinitions>
+        <RowDefinition Height="50"/>
+        <RowDefinition Height="100"/>
+        <RowDefinition Height="*"/>
+    </Grid.RowDefinitions>
+
+    <StackPanel Grid.ColumnSpan="2">
+        <TextBlock>Категория товаров:</TextBlock>
+        <ListBox x:Name="CategoriesListBox"
+            HorizontalAlignment="Center">
+            <ListBox.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <StackPanel Orientation="Horizontal"/>
+                </ItemsPanelTemplate>
+            </ListBox.ItemsPanel>
+        </ListBox>
+    </StackPanel>
+
+    <StackPanel Grid.Row="1">
+        <TextBlock>Сортировка:</TextBlock>
+            <ComboBox x:Name="SortingComboBox">
+                <ComboBoxItem IsSelected="True">Сначала недорогие</ComboBoxItem>
+                <ComboBoxItem>Сначала дорогие</ComboBoxItem>
+                <ComboBoxItem>По новинкам</ComboBoxItem>
+                <ComboBoxItem>По скидке</ComboBoxItem>
+                <ComboBoxItem>По количеству отзывов</ComboBoxItem>
+                <ComboBoxItem>Сначала с лучшей оценкой</ComboBoxItem>
+            </ComboBox>
+        </StackPanel>
+
+        <StackPanel Grid.Row="2">
+        <TextBlock>Наличие:</TextBlock>
+            <ListBox x:Name="AvailabilityCheckBox">
+                <CheckBox Content="В наличии" IsChecked="True"/>
+                <CheckBox Content="Под заказ: сегодня" IsChecked="True"/>
+                <CheckBox Content="Под заказ: завтра" IsChecked="True"/>
+                <CheckBox Content="Под заказ: позже" IsChecked="True"/>
+                <CheckBox Content="Нет в продаже"/>
+            </ListBox>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1" Grid.Column="1">
+            <TextBlock Name="CategoryTextBlock"/>
+            <TextBlock Name="SortingTextBlock"/>
+            <TextBlock Name="AvailabilityTextBlock"/>
+        </StackPanel>
+        <ToggleButton x:Name="SortingToggleButton" Grid.Column="1" Grid.Row="1" Width="50" Height="25"/>
+    </Grid>
+</Window>

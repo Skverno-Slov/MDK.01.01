@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\THUNDER\\source\\repos\\LabWork14\\",
+  "WorkspaceRootPath": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\LabWork14\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A142117D-FCBC-4716-B6A4-CA3B9845BE1C}|Task5\\Task5.csproj|c:\\users\\thunder\\source\\repos\\labwork14\\task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A142117D-FCBC-4716-B6A4-CA3B9845BE1C}|Task5\\Task5.csproj|solutionrelative:task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1058BC5-8DEF-4CE1-889F-68D04A30EC15}|Task4\\Task4.csproj|c:\\users\\thunder\\source\\repos\\labwork14\\task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1058BC5-8DEF-4CE1-889F-68D04A30EC15}|Task4\\Task4.csproj|solutionrelative:task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B605A6DC-080E-4FDA-9495-38E8C6842C98}|Task3\\Task3.csproj|c:\\users\\thunder\\source\\repos\\labwork14\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B605A6DC-080E-4FDA-9495-38E8C6842C98}|Task3\\Task3.csproj|c:\\users\\thunder\\onedrive\\desktop\\labwork14\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B605A6DC-080E-4FDA-9495-38E8C6842C98}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CCCDA17-5B6A-4FE5-83B1-0CF65FFA5FA3}|Task2\\Task2.csproj|c:\\users\\thunder\\source\\repos\\labwork14\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A142117D-FCBC-4716-B6A4-CA3B9845BE1C}|Task5\\Task5.csproj|c:\\users\\thunder\\onedrive\\desktop\\labwork14\\task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A142117D-FCBC-4716-B6A4-CA3B9845BE1C}|Task5\\Task5.csproj|solutionrelative:task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1058BC5-8DEF-4CE1-889F-68D04A30EC15}|Task4\\Task4.csproj|c:\\users\\thunder\\onedrive\\desktop\\labwork14\\task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1058BC5-8DEF-4CE1-889F-68D04A30EC15}|Task4\\Task4.csproj|solutionrelative:task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCCDA17-5B6A-4FE5-83B1-0CF65FFA5FA3}|Task2\\Task2.csproj|c:\\users\\thunder\\onedrive\\desktop\\labwork14\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CCCDA17-5B6A-4FE5-83B1-0CF65FFA5FA3}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73056C51-625B-4C45-BBA0-A0BCDF775805}|Task1\\Task1.csproj|c:\\users\\thunder\\source\\repos\\labwork14\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{73056C51-625B-4C45-BBA0-A0BCDF775805}|Task1\\Task1.csproj|c:\\users\\thunder\\onedrive\\desktop\\labwork14\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73056C51-625B-4C45-BBA0-A0BCDF775805}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,43 +30,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 589,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\source\\repos\\LabWork14\\Task5\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\LabWork14\\Task5\\Program.cs",
               "RelativeDocumentMoniker": "Task5\\Program.cs",
-              "ToolTip": "C:\\Users\\THUNDER\\source\\repos\\LabWork14\\Task5\\Program.cs",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\LabWork14\\Task5\\Program.cs",
               "RelativeToolTip": "Task5\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBIAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T19:53:39.58Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\source\\repos\\LabWork14\\Task4\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\LabWork14\\Task4\\Program.cs",
               "RelativeDocumentMoniker": "Task4\\Program.cs",
-              "ToolTip": "C:\\Users\\THUNDER\\source\\repos\\LabWork14\\Task4\\Program.cs",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\LabWork14\\Task4\\Program.cs",
               "RelativeToolTip": "Task4\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T19:48:20.754Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\source\\repos\\LabWork14\\Task3\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\LabWork14\\Task3\\Program.cs",
               "RelativeDocumentMoniker": "Task3\\Program.cs",
-              "ToolTip": "C:\\Users\\THUNDER\\source\\repos\\LabWork14\\Task3\\Program.cs",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\LabWork14\\Task3\\Program.cs",
               "RelativeToolTip": "Task3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T19:46:19.984Z",
               "EditorCaption": ""
@@ -75,27 +75,25 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\source\\repos\\LabWork14\\Task2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\LabWork14\\Task2\\Program.cs",
               "RelativeDocumentMoniker": "Task2\\Program.cs",
-              "ToolTip": "C:\\Users\\THUNDER\\source\\repos\\LabWork14\\Task2\\Program.cs",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\LabWork14\\Task2\\Program.cs",
               "RelativeToolTip": "Task2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T19:42:16.458Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T19:42:16.458Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\source\\repos\\LabWork14\\Task1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\LabWork14\\Task1\\Program.cs",
               "RelativeDocumentMoniker": "Task1\\Program.cs",
-              "ToolTip": "C:\\Users\\THUNDER\\source\\repos\\LabWork14\\Task1\\Program.cs",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\LabWork14\\Task1\\Program.cs",
               "RelativeToolTip": "Task1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T19:36:01.95Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T19:36:01.95Z"
             }
           ]
         }

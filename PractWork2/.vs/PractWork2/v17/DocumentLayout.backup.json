@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\ispp31\\RPM\\PractWork2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93CDB283-8D0F-4436-BB71-6C79299E1057}|Task3-5\\Task3-5.csproj|c:\\temp\\ispp31\\rpm\\practwork2\\task3-5\\multiplicationtableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CDB283-8D0F-4436-BB71-6C79299E1057}|Task3-5\\Task3-5.csproj|solutionrelative:task3-5\\multiplicationtableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31719213-CE69-4647-92DD-52E71F531DA0}|Task2\\Task2.csproj|c:\\temp\\ispp31\\rpm\\practwork2\\task2\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31719213-CE69-4647-92DD-52E71F531DA0}|Task2\\Task2.csproj|solutionrelative:task2\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31719213-CE69-4647-92DD-52E71F531DA0}|Task2\\Task2.csproj|c:\\temp\\ispp31\\rpm\\practwork2\\task2\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{31719213-CE69-4647-92DD-52E71F531DA0}|Task2\\Task2.csproj|solutionrelative:task2\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C64C646-D5B8-4D3F-B470-264C7256CD90}|Task1\\Task1.csproj|c:\\temp\\ispp31\\rpm\\practwork2\\task1\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C64C646-D5B8-4D3F-B470-264C7256CD90}|Task1\\Task1.csproj|solutionrelative:task1\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C64C646-D5B8-4D3F-B470-264C7256CD90}|Task1\\Task1.csproj|C:\\temp\\ispp31\\RPM\\PractWork2\\task1\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C64C646-D5B8-4D3F-B470-264C7256CD90}|Task1\\Task1.csproj|solutionrelative:task1\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CDB283-8D0F-4436-BB71-6C79299E1057}|Task3-5\\Task3-5.csproj|C:\\temp\\ispp31\\RPM\\PractWork2\\task3-5\\multiplicationtableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93CDB283-8D0F-4436-BB71-6C79299E1057}|Task3-5\\Task3-5.csproj|solutionrelative:task3-5\\multiplicationtableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegistrationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\temp\\ispp31\\RPM\\PractWork2\\Task1\\RegistrationForm.cs",
+              "RelativeDocumentMoniker": "Task1\\RegistrationForm.cs",
+              "ToolTip": "C:\\temp\\ispp31\\RPM\\PractWork2\\Task1\\RegistrationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Task1\\RegistrationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T14:58:27.321Z",
+              "IsPinned": true,
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistrationForm.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\RPM\\PractWork2\\Task1\\RegistrationForm.cs",
+              "RelativeDocumentMoniker": "Task1\\RegistrationForm.cs",
+              "ToolTip": "C:\\temp\\ispp31\\RPM\\PractWork2\\Task1\\RegistrationForm.cs",
+              "RelativeToolTip": "Task1\\RegistrationForm.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwDgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T15:00:59.031Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReportForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\temp\\ispp31\\RPM\\PractWork2\\Task2\\ReportForm.cs",
+              "RelativeDocumentMoniker": "Task2\\ReportForm.cs",
+              "ToolTip": "C:\\temp\\ispp31\\RPM\\PractWork2\\Task2\\ReportForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Task2\\ReportForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T15:55:05.695Z",
+              "IsPinned": true,
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportForm.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\RPM\\PractWork2\\Task2\\ReportForm.cs",
+              "RelativeDocumentMoniker": "Task2\\ReportForm.cs",
+              "ToolTip": "C:\\temp\\ispp31\\RPM\\PractWork2\\Task2\\ReportForm.cs",
+              "RelativeToolTip": "Task2\\ReportForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T16:54:25.018Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MultiplicationTableForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\temp\\ispp31\\RPM\\PractWork2\\Task3-5\\MultiplicationTableForm.cs",
+              "RelativeDocumentMoniker": "Task3-5\\MultiplicationTableForm.cs",
+              "ToolTip": "C:\\temp\\ispp31\\RPM\\PractWork2\\Task3-5\\MultiplicationTableForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Task3-5\\MultiplicationTableForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T17:18:25.538Z",
+              "IsPinned": true,
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MultiplicationTableForm.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\RPM\\PractWork2\\Task3-5\\MultiplicationTableForm.cs",
+              "RelativeDocumentMoniker": "Task3-5\\MultiplicationTableForm.cs",
+              "ToolTip": "C:\\temp\\ispp31\\RPM\\PractWork2\\Task3-5\\MultiplicationTableForm.cs",
+              "RelativeToolTip": "Task3-5\\MultiplicationTableForm.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowDQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T04:22:50.382Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

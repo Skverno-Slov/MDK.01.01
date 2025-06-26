@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\ispp31\\\u041B\u0430\u0431\u044B\\LabWork15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA835567-579A-4286-B39F-DC1F549AE80C}|Task3\\Task3.csproj|C:\\temp\\ispp31\\\u041B\u0430\u0431\u044B\\LabWork15\\task3\\replacementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA835567-579A-4286-B39F-DC1F549AE80C}|Task3\\Task3.csproj|solutionrelative:task3\\replacementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA835567-579A-4286-B39F-DC1F549AE80C}|Task3\\Task3.csproj|c:\\temp\\ispp31\\\u043B\u0430\u0431\u044B\\labwork15\\task3\\replacementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA835567-579A-4286-B39F-DC1F549AE80C}|Task3\\Task3.csproj|solutionrelative:task3\\replacementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA835567-579A-4286-B39F-DC1F549AE80C}|Task3\\Task3.csproj|c:\\temp\\ispp31\\\u043B\u0430\u0431\u044B\\labwork15\\task3\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA835567-579A-4286-B39F-DC1F549AE80C}|Task3\\Task3.csproj|solutionrelative:task3\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060D3E0C-CC1F-4814-92DF-694697E75FFF}|Task1\\Task1.csproj|c:\\temp\\ispp31\\\u043B\u0430\u0431\u044B\\labwork15\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060D3E0C-CC1F-4814-92DF-694697E75FFF}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA835567-579A-4286-B39F-DC1F549AE80C}|Task3\\Task3.csproj|C:\\temp\\ispp31\\\u041B\u0430\u0431\u044B\\LabWork15\\task3\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA835567-579A-4286-B39F-DC1F549AE80C}|Task3\\Task3.csproj|solutionrelative:task3\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F01006-2AE9-46F7-B598-69F2E46694D0}|Task2\\Task2.csproj|c:\\temp\\ispp31\\\u043B\u0430\u0431\u044B\\labwork15\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F01006-2AE9-46F7-B598-69F2E46694D0}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 130,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\\u041B\u0430\u0431\u044B\\LabWork15\\Task3\\MainForm.cs",
+              "RelativeDocumentMoniker": "Task3\\MainForm.cs",
+              "ToolTip": "C:\\temp\\ispp31\\\u041B\u0430\u0431\u044B\\LabWork15\\Task3\\MainForm.cs",
+              "RelativeToolTip": "Task3\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T06:42:18.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReplacementForm.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\\u041B\u0430\u0431\u044B\\LabWork15\\Task3\\ReplacementForm.cs",
+              "RelativeDocumentMoniker": "Task3\\ReplacementForm.cs",
+              "ToolTip": "C:\\temp\\ispp31\\\u041B\u0430\u0431\u044B\\LabWork15\\Task3\\ReplacementForm.cs",
+              "RelativeToolTip": "Task3\\ReplacementForm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T06:35:08.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReplacementForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\temp\\ispp31\\\u041B\u0430\u0431\u044B\\LabWork15\\Task3\\ReplacementForm.cs",
+              "RelativeDocumentMoniker": "Task3\\ReplacementForm.cs",
+              "ToolTip": "C:\\temp\\ispp31\\\u041B\u0430\u0431\u044B\\LabWork15\\Task3\\ReplacementForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Task3\\ReplacementForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T06:28:54.6Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\temp\\ispp31\\\u041B\u0430\u0431\u044B\\LabWork15\\Task3\\MainForm.cs",
+              "RelativeDocumentMoniker": "Task3\\MainForm.cs",
+              "ToolTip": "C:\\temp\\ispp31\\LabWork15\\Task3\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\LabWork15\\Task3\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T06:22:34.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\\u041B\u0430\u0431\u044B\\LabWork15\\Task2\\Program.cs",
+              "RelativeDocumentMoniker": "Task2\\Program.cs",
+              "ToolTip": "C:\\temp\\ispp31\\\u041B\u0430\u0431\u044B\\LabWork15\\Task2\\Program.cs",
+              "RelativeToolTip": "Task2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T06:08:53.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\\u041B\u0430\u0431\u044B\\LabWork15\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Task1\\Program.cs",
+              "ToolTip": "C:\\temp\\ispp31\\\u041B\u0430\u0431\u044B\\LabWork15\\Task1\\Program.cs",
+              "RelativeToolTip": "Task1\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T05:36:47.504Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

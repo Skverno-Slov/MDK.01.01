@@ -1,0 +1,33 @@
+﻿<Window x:Class="PractWork4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PractWork4" d:DataContext="{d:DesignInstance Type=local:GameData}"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <ListView x:Name="GamesListView" ItemsSource="{Binding Games}">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Id" DisplayMemberBinding="{Binding IdGame}"/>
+                    <GridViewColumn Header="Название" DisplayMemberBinding="{Binding Name}"/>
+                    <GridViewColumn Header="Описание" DisplayMemberBinding="{Binding Description}"/>
+                    <GridViewColumn Header="Категория" DisplayMemberBinding="{Binding Category}"/>
+                    <GridViewColumn Header="Цена" DisplayMemberBinding="{Binding Price}"/>
+                    <GridViewColumn Header="Скидка" DisplayMemberBinding="{Binding Sale}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <ListView x:Name="CategoriesListView" ItemsSource="{Binding Categories}">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Название" DisplayMemberBinding="{Binding Name}"/>
+                    <GridViewColumn Header="Описание" DisplayMemberBinding="{Binding Description}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <TextBox x:Name="ViewTextBox" Text="{Binding , ElementName=GamesListView}"/>
+    </StackPanel>
+</Window>

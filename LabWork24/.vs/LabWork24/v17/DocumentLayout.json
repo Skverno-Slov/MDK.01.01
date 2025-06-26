@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\LabWork24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1799D5B-17FD-460A-BA69-AB047F82E908}|LabWork24\\LabWork24.csproj|c:\\users\\thunder\\onedrive\\desktop\\labwork24\\labwork24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1799D5B-17FD-460A-BA69-AB047F82E908}|LabWork24\\LabWork24.csproj|solutionrelative:labwork24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1799D5B-17FD-460A-BA69-AB047F82E908}|LabWork24\\LabWork24.csproj|c:\\users\\thunder\\onedrive\\desktop\\labwork24\\labwork24\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1799D5B-17FD-460A-BA69-AB047F82E908}|LabWork24\\LabWork24.csproj|solutionrelative:labwork24\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1799D5B-17FD-460A-BA69-AB047F82E908}|LabWork24\\LabWork24.csproj|c:\\users\\thunder\\onedrive\\desktop\\labwork24\\labwork24\\orderexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1799D5B-17FD-460A-BA69-AB047F82E908}|LabWork24\\LabWork24.csproj|solutionrelative:labwork24\\orderexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1799D5B-17FD-460A-BA69-AB047F82E908}|LabWork24\\LabWork24.csproj|c:\\users\\thunder\\onedrive\\desktop\\labwork24\\labwork24\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1799D5B-17FD-460A-BA69-AB047F82E908}|LabWork24\\LabWork24.csproj|solutionrelative:labwork24\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1799D5B-17FD-460A-BA69-AB047F82E908}|LabWork24\\LabWork24.csproj|c:\\users\\thunder\\onedrive\\desktop\\labwork24\\labwork24\\deliveryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1799D5B-17FD-460A-BA69-AB047F82E908}|LabWork24\\LabWork24.csproj|solutionrelative:labwork24\\deliveryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeliveryService.cs",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\LabWork24\\LabWork24\\DeliveryService.cs",
+              "RelativeDocumentMoniker": "LabWork24\\DeliveryService.cs",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\LabWork24\\LabWork24\\DeliveryService.cs",
+              "RelativeToolTip": "LabWork24\\DeliveryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T14:11:26.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\LabWork24\\LabWork24\\Order.cs",
+              "RelativeDocumentMoniker": "LabWork24\\Order.cs",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\LabWork24\\LabWork24\\Order.cs",
+              "RelativeToolTip": "LabWork24\\Order.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wCAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T14:10:12.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderException.cs",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\LabWork24\\LabWork24\\OrderException.cs",
+              "RelativeDocumentMoniker": "LabWork24\\OrderException.cs",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\LabWork24\\LabWork24\\OrderException.cs",
+              "RelativeToolTip": "LabWork24\\OrderException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T14:10:10.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\LabWork24\\LabWork24\\OrderService.cs",
+              "RelativeDocumentMoniker": "LabWork24\\OrderService.cs",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\LabWork24\\LabWork24\\OrderService.cs",
+              "RelativeToolTip": "LabWork24\\OrderService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T14:10:00.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\LabWork24\\LabWork24\\Program.cs",
+              "RelativeDocumentMoniker": "LabWork24\\Program.cs",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\LabWork24\\LabWork24\\Program.cs",
+              "RelativeToolTip": "LabWork24\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T14:09:56.888Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

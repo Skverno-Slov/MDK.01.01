@@ -11,3 +11,16 @@ C:\Users\THUNDER\OneDrive\Desktop\Repositories\MDK.01.01\LabWork47\DbLibrary\obj
 C:\Users\THUNDER\OneDrive\Desktop\Repositories\MDK.01.01\LabWork47\DbLibrary\obj\Debug\net8.0\refint\DbLibrary.dll
 C:\Users\THUNDER\OneDrive\Desktop\Repositories\MDK.01.01\LabWork47\DbLibrary\obj\Debug\net8.0\DbLibrary.pdb
 C:\Users\THUNDER\OneDrive\Desktop\Repositories\MDK.01.01\LabWork47\DbLibrary\obj\Debug\net8.0\ref\DbLibrary.dll
+C:\temp\ispp31\LabWorks\LabWork47\DbLibrary\bin\Debug\net8.0\DbLibrary.deps.json
+C:\temp\ispp31\LabWorks\LabWork47\DbLibrary\bin\Debug\net8.0\DbLibrary.dll
+C:\temp\ispp31\LabWorks\LabWork47\DbLibrary\bin\Debug\net8.0\DbLibrary.pdb
+C:\temp\ispp31\LabWorks\LabWork47\DbLibrary\obj\Debug\net8.0\DbLibrary.csproj.AssemblyReference.cache
+C:\temp\ispp31\LabWorks\LabWork47\DbLibrary\obj\Debug\net8.0\DbLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ispp31\LabWorks\LabWork47\DbLibrary\obj\Debug\net8.0\DbLibrary.AssemblyInfoInputs.cache
+C:\temp\ispp31\LabWorks\LabWork47\DbLibrary\obj\Debug\net8.0\DbLibrary.AssemblyInfo.cs
+C:\temp\ispp31\LabWorks\LabWork47\DbLibrary\obj\Debug\net8.0\DbLibrary.csproj.CoreCompileInputs.cache
+C:\temp\ispp31\LabWorks\LabWork47\DbLibrary\obj\Debug\net8.0\DbLibrary.sourcelink.json
+C:\temp\ispp31\LabWorks\LabWork47\DbLibrary\obj\Debug\net8.0\DbLibrary.dll
+C:\temp\ispp31\LabWorks\LabWork47\DbLibrary\obj\Debug\net8.0\refint\DbLibrary.dll
+C:\temp\ispp31\LabWorks\LabWork47\DbLibrary\obj\Debug\net8.0\DbLibrary.pdb
+C:\temp\ispp31\LabWorks\LabWork47\DbLibrary\obj\Debug\net8.0\ref\DbLibrary.dll

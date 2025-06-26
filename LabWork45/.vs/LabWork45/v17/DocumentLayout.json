@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\LabWorks\\LabWork45\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46FE79B3-3468-454D-8461-CFCCAAFE29C4}|SQLiteLibrary\\SQLiteLibrary.csproj|c:\\users\\thunder\\onedrive\\desktop\\labworks\\labwork45\\sqlitelibrary\\sqlitedataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46FE79B3-3468-454D-8461-CFCCAAFE29C4}|SQLiteLibrary\\SQLiteLibrary.csproj|solutionrelative:sqlitelibrary\\sqlitedataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F98A455-C9E4-4990-9DB9-82AE3B36BEF3}|MSSQLLibrary\\MSSQLLibrary.csproj|c:\\users\\thunder\\onedrive\\desktop\\labworks\\labwork45\\mssqllibrary\\mssqldataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F98A455-C9E4-4990-9DB9-82AE3B36BEF3}|MSSQLLibrary\\MSSQLLibrary.csproj|solutionrelative:mssqllibrary\\mssqldataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53290C9-2D9F-423B-9DA4-5A5D9F22B3E4}|LabWork45\\LabWork45.csproj|c:\\users\\thunder\\onedrive\\desktop\\labworks\\labwork45\\labwork45\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53290C9-2D9F-423B-9DA4-5A5D9F22B3E4}|LabWork45\\LabWork45.csproj|solutionrelative:labwork45\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53290C9-2D9F-423B-9DA4-5A5D9F22B3E4}|LabWork45\\LabWork45.csproj|c:\\users\\thunder\\onedrive\\desktop\\labworks\\labwork45\\labwork45\\labwork45.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C53290C9-2D9F-423B-9DA4-5A5D9F22B3E4}|LabWork45\\LabWork45.csproj|solutionrelative:labwork45\\labwork45.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F98A455-C9E4-4990-9DB9-82AE3B36BEF3}|MSSQLLibrary\\MSSQLLibrary.csproj|c:\\users\\thunder\\onedrive\\desktop\\labworks\\labwork45\\mssqllibrary\\mssqllibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5F98A455-C9E4-4990-9DB9-82AE3B36BEF3}|MSSQLLibrary\\MSSQLLibrary.csproj|solutionrelative:mssqllibrary\\mssqllibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LabWork45.csproj",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\LabWorks\\LabWork45\\LabWork45\\LabWork45.csproj",
+              "RelativeDocumentMoniker": "LabWork45\\LabWork45.csproj",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\LabWorks\\LabWork45\\LabWork45\\LabWork45.csproj",
+              "RelativeToolTip": "LabWork45\\LabWork45.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-09T09:33:03.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MSSQLLibrary.csproj",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\LabWorks\\LabWork45\\MSSQLLibrary\\MSSQLLibrary.csproj",
+              "RelativeDocumentMoniker": "MSSQLLibrary\\MSSQLLibrary.csproj",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\LabWorks\\LabWork45\\MSSQLLibrary\\MSSQLLibrary.csproj",
+              "RelativeToolTip": "MSSQLLibrary\\MSSQLLibrary.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-09T09:22:02.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SQLiteDataAccessLayer.cs",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\LabWorks\\LabWork45\\SQLiteLibrary\\SQLiteDataAccessLayer.cs",
+              "RelativeDocumentMoniker": "SQLiteLibrary\\SQLiteDataAccessLayer.cs",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\LabWorks\\LabWork45\\SQLiteLibrary\\SQLiteDataAccessLayer.cs",
+              "RelativeToolTip": "SQLiteLibrary\\SQLiteDataAccessLayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T08:59:52.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MSSQLDataAccessLayer.cs",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\LabWorks\\LabWork45\\MSSQLLibrary\\MSSQLDataAccessLayer.cs",
+              "RelativeDocumentMoniker": "MSSQLLibrary\\MSSQLDataAccessLayer.cs",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\LabWorks\\LabWork45\\MSSQLLibrary\\MSSQLDataAccessLayer.cs",
+              "RelativeToolTip": "MSSQLLibrary\\MSSQLDataAccessLayer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T08:59:24.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\LabWorks\\LabWork45\\LabWork45\\Program.cs",
+              "RelativeDocumentMoniker": "LabWork45\\Program.cs",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\LabWorks\\LabWork45\\LabWork45\\Program.cs",
+              "RelativeToolTip": "LabWork45\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T08:56:17.75Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

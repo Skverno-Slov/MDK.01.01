@@ -1,0 +1,14 @@
+C:\Users\THUNDER\Downloads\LabWork13-20250225T153026Z-001\LabWork13\Task2\bin\Debug\net9.0\Task2.exe
+C:\Users\THUNDER\Downloads\LabWork13-20250225T153026Z-001\LabWork13\Task2\bin\Debug\net9.0\Task2.deps.json
+C:\Users\THUNDER\Downloads\LabWork13-20250225T153026Z-001\LabWork13\Task2\bin\Debug\net9.0\Task2.runtimeconfig.json
+C:\Users\THUNDER\Downloads\LabWork13-20250225T153026Z-001\LabWork13\Task2\bin\Debug\net9.0\Task2.dll
+C:\Users\THUNDER\Downloads\LabWork13-20250225T153026Z-001\LabWork13\Task2\bin\Debug\net9.0\Task2.pdb
+C:\Users\THUNDER\Downloads\LabWork13-20250225T153026Z-001\LabWork13\Task2\obj\Debug\net9.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THUNDER\Downloads\LabWork13-20250225T153026Z-001\LabWork13\Task2\obj\Debug\net9.0\Task2.AssemblyInfoInputs.cache
+C:\Users\THUNDER\Downloads\LabWork13-20250225T153026Z-001\LabWork13\Task2\obj\Debug\net9.0\Task2.AssemblyInfo.cs
+C:\Users\THUNDER\Downloads\LabWork13-20250225T153026Z-001\LabWork13\Task2\obj\Debug\net9.0\Task2.csproj.CoreCompileInputs.cache
+C:\Users\THUNDER\Downloads\LabWork13-20250225T153026Z-001\LabWork13\Task2\obj\Debug\net9.0\Task2.dll
+C:\Users\THUNDER\Downloads\LabWork13-20250225T153026Z-001\LabWork13\Task2\obj\Debug\net9.0\refint\Task2.dll
+C:\Users\THUNDER\Downloads\LabWork13-20250225T153026Z-001\LabWork13\Task2\obj\Debug\net9.0\Task2.pdb
+C:\Users\THUNDER\Downloads\LabWork13-20250225T153026Z-001\LabWork13\Task2\obj\Debug\net9.0\Task2.genruntimeconfig.cache
+C:\Users\THUNDER\Downloads\LabWork13-20250225T153026Z-001\LabWork13\Task2\obj\Debug\net9.0\ref\Task2.dll

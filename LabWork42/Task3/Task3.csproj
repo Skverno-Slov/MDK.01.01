@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Sounds\**" />
+    <Compile Remove="Videos\**" />
+    <EmbeddedResource Remove="Sounds\**" />
+    <EmbeddedResource Remove="Videos\**" />
+    <None Remove="Sounds\**" />
+    <None Remove="Videos\**" />
+    <Page Remove="Sounds\**" />
+    <Page Remove="Videos\**" />
+  </ItemGroup>
+
+</Project>

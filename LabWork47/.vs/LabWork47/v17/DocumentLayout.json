@@ -1,37 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\LabWork47\\",
+  "WorkspaceRootPath": "C:\\temp\\ispp31\\LabWorks\\LabWork47\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4F36EA36-0F95-4475-8986-7EA82EC83E45}|TestWebApplication\\TestWebApplication.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\mdk.01.01\\labwork47\\testwebapplication\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F36EA36-0F95-4475-8986-7EA82EC83E45}|TestWebApplication\\TestWebApplication.csproj|solutionrelative:testwebapplication\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B4C112E-C6D7-4FF6-9969-B88333846DE4}|TestConsoleApp1\\TestConsoleApp1.csproj|c:\\temp\\ispp31\\labworks\\labwork47\\testconsoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4C112E-C6D7-4FF6-9969-B88333846DE4}|TestConsoleApp1\\TestConsoleApp1.csproj|solutionrelative:testconsoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F36EA36-0F95-4475-8986-7EA82EC83E45}|TestWebApplication\\TestWebApplication.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\mdk.01.01\\labwork47\\testwebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F36EA36-0F95-4475-8986-7EA82EC83E45}|TestWebApplication\\TestWebApplication.csproj|solutionrelative:testwebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7566985C-ADD9-4561-9005-A8F8F4FE4189}|DbLibrary\\DbLibrary.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\mdk.01.01\\labwork47\\dblibrary\\repositories\\gamesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7566985C-ADD9-4561-9005-A8F8F4FE4189}|DbLibrary\\DbLibrary.csproj|solutionrelative:dblibrary\\repositories\\gamesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7566985C-ADD9-4561-9005-A8F8F4FE4189}|DbLibrary\\DbLibrary.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\mdk.01.01\\labwork47\\dblibrary\\database\\mssqlfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7566985C-ADD9-4561-9005-A8F8F4FE4189}|DbLibrary\\DbLibrary.csproj|solutionrelative:dblibrary\\database\\mssqlfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB32C503-CA35-4514-B94F-FA7BF346335D}|TestConsoleApp\\TestConsoleApp.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\mdk.01.01\\labwork47\\testconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB32C503-CA35-4514-B94F-FA7BF346335D}|TestConsoleApp\\TestConsoleApp.csproj|c:\\temp\\ispp31\\labworks\\labwork47\\testconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB32C503-CA35-4514-B94F-FA7BF346335D}|TestConsoleApp\\TestConsoleApp.csproj|solutionrelative:testconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7566985C-ADD9-4561-9005-A8F8F4FE4189}|DbLibrary\\DbLibrary.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\mdk.01.01\\labwork47\\dblibrary\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7566985C-ADD9-4561-9005-A8F8F4FE4189}|DbLibrary\\DbLibrary.csproj|c:\\temp\\ispp31\\labworks\\labwork47\\dblibrary\\services\\gamesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7566985C-ADD9-4561-9005-A8F8F4FE4189}|DbLibrary\\DbLibrary.csproj|solutionrelative:dblibrary\\services\\gamesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB32C503-CA35-4514-B94F-FA7BF346335D}|TestConsoleApp\\TestConsoleApp.csproj|c:\\temp\\ispp31\\labworks\\labwork47\\testconsoleapp\\testconsoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AB32C503-CA35-4514-B94F-FA7BF346335D}|TestConsoleApp\\TestConsoleApp.csproj|solutionrelative:testconsoleapp\\testconsoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7566985C-ADD9-4561-9005-A8F8F4FE4189}|DbLibrary\\DbLibrary.csproj|c:\\temp\\ispp31\\labworks\\labwork47\\dblibrary\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7566985C-ADD9-4561-9005-A8F8F4FE4189}|DbLibrary\\DbLibrary.csproj|solutionrelative:dblibrary\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7566985C-ADD9-4561-9005-A8F8F4FE4189}|DbLibrary\\DbLibrary.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\mdk.01.01\\labwork47\\dblibrary\\database\\sqlitefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4F36EA36-0F95-4475-8986-7EA82EC83E45}|TestWebApplication\\TestWebApplication.csproj|c:\\temp\\ispp31\\labworks\\labwork47\\testwebapplication\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F36EA36-0F95-4475-8986-7EA82EC83E45}|TestWebApplication\\TestWebApplication.csproj|solutionrelative:testwebapplication\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F36EA36-0F95-4475-8986-7EA82EC83E45}|TestWebApplication\\TestWebApplication.csproj|c:\\temp\\ispp31\\labworks\\labwork47\\testwebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F36EA36-0F95-4475-8986-7EA82EC83E45}|TestWebApplication\\TestWebApplication.csproj|solutionrelative:testwebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7566985C-ADD9-4561-9005-A8F8F4FE4189}|DbLibrary\\DbLibrary.csproj|c:\\temp\\ispp31\\labworks\\labwork47\\dblibrary\\repositories\\gamesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7566985C-ADD9-4561-9005-A8F8F4FE4189}|DbLibrary\\DbLibrary.csproj|solutionrelative:dblibrary\\repositories\\gamesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7566985C-ADD9-4561-9005-A8F8F4FE4189}|DbLibrary\\DbLibrary.csproj|c:\\temp\\ispp31\\labworks\\labwork47\\dblibrary\\database\\sqlitefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7566985C-ADD9-4561-9005-A8F8F4FE4189}|DbLibrary\\DbLibrary.csproj|solutionrelative:dblibrary\\database\\sqlitefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7566985C-ADD9-4561-9005-A8F8F4FE4189}|DbLibrary\\DbLibrary.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\mdk.01.01\\labwork47\\dblibrary\\database\\idbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7566985C-ADD9-4561-9005-A8F8F4FE4189}|DbLibrary\\DbLibrary.csproj|c:\\temp\\ispp31\\labworks\\labwork47\\dblibrary\\database\\mssqlfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7566985C-ADD9-4561-9005-A8F8F4FE4189}|DbLibrary\\DbLibrary.csproj|solutionrelative:dblibrary\\database\\mssqlfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7566985C-ADD9-4561-9005-A8F8F4FE4189}|DbLibrary\\DbLibrary.csproj|c:\\temp\\ispp31\\labworks\\labwork47\\dblibrary\\database\\idbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7566985C-ADD9-4561-9005-A8F8F4FE4189}|DbLibrary\\DbLibrary.csproj|solutionrelative:dblibrary\\database\\idbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,103 +54,153 @@
       "DocumentGroups": [
         {
           "DockedWidth": 130,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestConsoleApp",
+              "DocumentMoniker": "C:\\temp\\ispp31\\LabWorks\\LabWork47\\TestConsoleApp\\TestConsoleApp.csproj",
+              "RelativeDocumentMoniker": "TestConsoleApp\\TestConsoleApp.csproj",
+              "ToolTip": "C:\\temp\\ispp31\\LabWorks\\LabWork47\\TestConsoleApp\\TestConsoleApp.csproj",
+              "RelativeToolTip": "TestConsoleApp\\TestConsoleApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-13T07:00:53.349Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\LabWorks\\LabWork47\\TestConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "TestConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\temp\\ispp31\\LabWorks\\LabWork47\\TestConsoleApp1\\Program.cs",
+              "RelativeToolTip": "TestConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T06:53:42.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GamesService.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\LabWorks\\LabWork47\\DbLibrary\\Services\\GamesService.cs",
+              "RelativeDocumentMoniker": "DbLibrary\\Services\\GamesService.cs",
+              "ToolTip": "C:\\temp\\ispp31\\LabWorks\\LabWork47\\DbLibrary\\Services\\GamesService.cs",
+              "RelativeToolTip": "DbLibrary\\Services\\GamesService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwDYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T06:16:46.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "GamesController.cs",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\LabWork47\\TestWebApplication\\Controllers\\GamesController.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\LabWorks\\LabWork47\\TestWebApplication\\Controllers\\GamesController.cs",
               "RelativeDocumentMoniker": "TestWebApplication\\Controllers\\GamesController.cs",
-              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\LabWork47\\TestWebApplication\\Controllers\\GamesController.cs",
+              "ToolTip": "C:\\temp\\ispp31\\LabWorks\\LabWork47\\TestWebApplication\\Controllers\\GamesController.cs",
               "RelativeToolTip": "TestWebApplication\\Controllers\\GamesController.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAkwDMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAIwGAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-12T21:09:03.59Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\LabWork47\\TestWebApplication\\Program.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\LabWorks\\LabWork47\\TestWebApplication\\Program.cs",
               "RelativeDocumentMoniker": "TestWebApplication\\Program.cs",
-              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\LabWork47\\TestWebApplication\\Program.cs",
+              "ToolTip": "C:\\temp\\ispp31\\LabWorks\\LabWork47\\TestWebApplication\\Program.cs",
               "RelativeToolTip": "TestWebApplication\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABbAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-12T20:57:58.994Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\LabWork47\\TestConsoleApp\\Program.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\LabWorks\\LabWork47\\TestConsoleApp\\Program.cs",
               "RelativeDocumentMoniker": "TestConsoleApp\\Program.cs",
-              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\LabWork47\\TestConsoleApp\\Program.cs",
+              "ToolTip": "C:\\temp\\ispp31\\LabWorks\\LabWork47\\TestConsoleApp\\Program.cs",
               "RelativeToolTip": "TestConsoleApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-12T20:30:35.871Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Game.cs",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\LabWork47\\DbLibrary\\Models\\Game.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\LabWorks\\LabWork47\\DbLibrary\\Models\\Game.cs",
               "RelativeDocumentMoniker": "DbLibrary\\Models\\Game.cs",
-              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\LabWork47\\DbLibrary\\Models\\Game.cs",
+              "ToolTip": "C:\\temp\\ispp31\\LabWorks\\LabWork47\\DbLibrary\\Models\\Game.cs",
               "RelativeToolTip": "DbLibrary\\Models\\Game.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T20:06:02.305Z"
+              "WhenOpened": "2025-06-12T20:06:02.305Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "GamesRepository.cs",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\LabWork47\\DbLibrary\\Repositories\\GamesRepository.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\LabWorks\\LabWork47\\DbLibrary\\Repositories\\GamesRepository.cs",
               "RelativeDocumentMoniker": "DbLibrary\\Repositories\\GamesRepository.cs",
-              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\LabWork47\\DbLibrary\\Repositories\\GamesRepository.cs",
+              "ToolTip": "C:\\temp\\ispp31\\LabWorks\\LabWork47\\DbLibrary\\Repositories\\GamesRepository.cs",
               "RelativeToolTip": "DbLibrary\\Repositories\\GamesRepository.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-12T19:59:08.825Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "SqliteFactory.cs",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\LabWork47\\DbLibrary\\DataBase\\SqliteFactory.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\LabWorks\\LabWork47\\DbLibrary\\DataBase\\SqliteFactory.cs",
               "RelativeDocumentMoniker": "DbLibrary\\DataBase\\SqliteFactory.cs",
-              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\LabWork47\\DbLibrary\\DataBase\\SqliteFactory.cs",
+              "ToolTip": "C:\\temp\\ispp31\\LabWorks\\LabWork47\\DbLibrary\\DataBase\\SqliteFactory.cs",
               "RelativeToolTip": "DbLibrary\\DataBase\\SqliteFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T19:53:14.605Z"
+              "WhenOpened": "2025-06-12T19:53:14.605Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "IDbConnectionFactory.cs",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\LabWork47\\DbLibrary\\DataBase\\IDbConnectionFactory.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\LabWorks\\LabWork47\\DbLibrary\\DataBase\\IDbConnectionFactory.cs",
               "RelativeDocumentMoniker": "DbLibrary\\DataBase\\IDbConnectionFactory.cs",
-              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\LabWork47\\DbLibrary\\DataBase\\IDbConnectionFactory.cs",
+              "ToolTip": "C:\\temp\\ispp31\\LabWorks\\LabWork47\\DbLibrary\\DataBase\\IDbConnectionFactory.cs",
               "RelativeToolTip": "DbLibrary\\DataBase\\IDbConnectionFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T19:43:51.885Z"
+              "WhenOpened": "2025-06-12T19:43:51.885Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "MsSqlFactory.cs",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\LabWork47\\DbLibrary\\DataBase\\MsSqlFactory.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\LabWorks\\LabWork47\\DbLibrary\\DataBase\\MsSqlFactory.cs",
               "RelativeDocumentMoniker": "DbLibrary\\DataBase\\MsSqlFactory.cs",
-              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\LabWork47\\DbLibrary\\DataBase\\MsSqlFactory.cs",
+              "ToolTip": "C:\\temp\\ispp31\\LabWorks\\LabWork47\\DbLibrary\\DataBase\\MsSqlFactory.cs",
               "RelativeToolTip": "DbLibrary\\DataBase\\MsSqlFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

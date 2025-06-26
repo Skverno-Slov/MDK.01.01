@@ -1,0 +1,14 @@
+C:\temp\ispp31\LabWork10\LabWork10\obj\Debug\net9.0\LabWork10.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ispp31\LabWork10\LabWork10\obj\Debug\net9.0\LabWork10.AssemblyInfoInputs.cache
+C:\temp\ispp31\LabWork10\LabWork10\obj\Debug\net9.0\LabWork10.AssemblyInfo.cs
+C:\temp\ispp31\LabWork10\LabWork10\obj\Debug\net9.0\LabWork10.csproj.CoreCompileInputs.cache
+C:\temp\ispp31\LabWork10\LabWork10\bin\Debug\net9.0\LabWork10.exe
+C:\temp\ispp31\LabWork10\LabWork10\bin\Debug\net9.0\LabWork10.deps.json
+C:\temp\ispp31\LabWork10\LabWork10\bin\Debug\net9.0\LabWork10.runtimeconfig.json
+C:\temp\ispp31\LabWork10\LabWork10\bin\Debug\net9.0\LabWork10.dll
+C:\temp\ispp31\LabWork10\LabWork10\bin\Debug\net9.0\LabWork10.pdb
+C:\temp\ispp31\LabWork10\LabWork10\obj\Debug\net9.0\LabWork10.dll
+C:\temp\ispp31\LabWork10\LabWork10\obj\Debug\net9.0\refint\LabWork10.dll
+C:\temp\ispp31\LabWork10\LabWork10\obj\Debug\net9.0\LabWork10.pdb
+C:\temp\ispp31\LabWork10\LabWork10\obj\Debug\net9.0\LabWork10.genruntimeconfig.cache
+C:\temp\ispp31\LabWork10\LabWork10\obj\Debug\net9.0\ref\LabWork10.dll

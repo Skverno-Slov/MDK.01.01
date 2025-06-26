@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\ispp31\\PractWorks\\PractWork5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{385DC571-C092-46C6-9E12-111AE4CCD7B5}|Task3\\Task3.csproj|c:\\temp\\ispp31\\practworks\\practwork5\\task3\\settingswindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{385DC571-C092-46C6-9E12-111AE4CCD7B5}|Task3\\Task3.csproj|solutionrelative:task3\\settingswindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385DC571-C092-46C6-9E12-111AE4CCD7B5}|Task3\\Task3.csproj|c:\\temp\\ispp31\\practworks\\practwork5\\task3\\authorizationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385DC571-C092-46C6-9E12-111AE4CCD7B5}|Task3\\Task3.csproj|solutionrelative:task3\\authorizationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385DC571-C092-46C6-9E12-111AE4CCD7B5}|Task3\\Task3.csproj|c:\\temp\\ispp31\\practworks\\practwork5\\task3\\settingswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{385DC571-C092-46C6-9E12-111AE4CCD7B5}|Task3\\Task3.csproj|solutionrelative:task3\\settingswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385DC571-C092-46C6-9E12-111AE4CCD7B5}|Task3\\Task3.csproj|c:\\temp\\ispp31\\practworks\\practwork5\\task3\\authorizationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{385DC571-C092-46C6-9E12-111AE4CCD7B5}|Task3\\Task3.csproj|solutionrelative:task3\\authorizationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385DC571-C092-46C6-9E12-111AE4CCD7B5}|Task3\\Task3.csproj|c:\\temp\\ispp31\\practworks\\practwork5\\task3\\task3.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{385DC571-C092-46C6-9E12-111AE4CCD7B5}|Task3\\Task3.csproj|solutionrelative:task3\\task3.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCB1CD71-F06F-43A8-92FB-B0C1C6BF04E5}|Task1\\Task1.csproj|c:\\temp\\ispp31\\practworks\\practwork5\\task1\\settingswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCB1CD71-F06F-43A8-92FB-B0C1C6BF04E5}|Task1\\Task1.csproj|solutionrelative:task1\\settingswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCB1CD71-F06F-43A8-92FB-B0C1C6BF04E5}|Task1\\Task1.csproj|c:\\temp\\ispp31\\practworks\\practwork5\\task1\\settingswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CCB1CD71-F06F-43A8-92FB-B0C1C6BF04E5}|Task1\\Task1.csproj|solutionrelative:task1\\settingswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCB1CD71-F06F-43A8-92FB-B0C1C6BF04E5}|Task1\\Task1.csproj|C:\\temp\\ispp31\\PractWorks\\PractWork5\\task1\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{CCB1CD71-F06F-43A8-92FB-B0C1C6BF04E5}|Task1\\Task1.csproj|solutionrelative:task1\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385DC571-C092-46C6-9E12-111AE4CCD7B5}|Task3\\Task3.csproj|c:\\temp\\ispp31\\practworks\\practwork5\\task3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385DC571-C092-46C6-9E12-111AE4CCD7B5}|Task3\\Task3.csproj|solutionrelative:task3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385DC571-C092-46C6-9E12-111AE4CCD7B5}|Task3\\Task3.csproj|c:\\temp\\ispp31\\practworks\\practwork5\\task3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{385DC571-C092-46C6-9E12-111AE4CCD7B5}|Task3\\Task3.csproj|solutionrelative:task3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 130,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthorizationWindow.xaml.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\PractWorks\\PractWork5\\Task3\\AuthorizationWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Task3\\AuthorizationWindow.xaml.cs",
+              "ToolTip": "C:\\temp\\ispp31\\PractWorks\\PractWork5\\Task3\\AuthorizationWindow.xaml.cs",
+              "RelativeToolTip": "Task3\\AuthorizationWindow.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwCUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T12:34:46.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SettingsWindow.xaml",
+              "DocumentMoniker": "C:\\temp\\ispp31\\PractWorks\\PractWork5\\Task1\\SettingsWindow.xaml",
+              "RelativeDocumentMoniker": "Task1\\SettingsWindow.xaml",
+              "ToolTip": "C:\\temp\\ispp31\\PractWorks\\PractWork5\\Task1\\SettingsWindow.xaml",
+              "RelativeToolTip": "Task1\\SettingsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-30T12:33:23.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SettingsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\PractWorks\\PractWork5\\Task1\\SettingsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Task1\\SettingsWindow.xaml.cs",
+              "ToolTip": "C:\\temp\\ispp31\\PractWorks\\PractWork5\\Task1\\SettingsWindow.xaml.cs",
+              "RelativeToolTip": "Task1\\SettingsWindow.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T12:32:25.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\temp\\ispp31\\PractWorks\\PractWork5\\Task1\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "Task1\\Properties\\Settings.settings",
+              "ToolTip": "C:\\temp\\ispp31\\PractWorks\\PractWork5\\Task1\\Properties\\Settings.settings",
+              "RelativeToolTip": "Task1\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2025-05-30T12:32:18.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Task3",
+              "DocumentMoniker": "C:\\temp\\ispp31\\PractWorks\\PractWork5\\Task3\\Task3.csproj",
+              "RelativeDocumentMoniker": "Task3\\Task3.csproj",
+              "ToolTip": "C:\\temp\\ispp31\\PractWorks\\PractWork5\\Task3\\Task3.csproj",
+              "RelativeToolTip": "Task3\\Task3.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-30T12:31:57.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SettingsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\PractWorks\\PractWork5\\Task3\\SettingsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Task3\\SettingsWindow.xaml.cs",
+              "ToolTip": "C:\\temp\\ispp31\\PractWorks\\PractWork5\\Task3\\SettingsWindow.xaml.cs",
+              "RelativeToolTip": "Task3\\SettingsWindow.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T12:31:03.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SettingsWindow.xaml",
+              "DocumentMoniker": "C:\\temp\\ispp31\\PractWorks\\PractWork5\\Task3\\SettingsWindow.xaml",
+              "RelativeDocumentMoniker": "Task3\\SettingsWindow.xaml",
+              "ToolTip": "C:\\temp\\ispp31\\PractWorks\\PractWork5\\Task3\\SettingsWindow.xaml",
+              "RelativeToolTip": "Task3\\SettingsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-30T12:30:46.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthorizationWindow.xaml",
+              "DocumentMoniker": "C:\\temp\\ispp31\\PractWorks\\PractWork5\\Task3\\AuthorizationWindow.xaml",
+              "RelativeDocumentMoniker": "Task3\\AuthorizationWindow.xaml",
+              "ToolTip": "C:\\temp\\ispp31\\PractWorks\\PractWork5\\Task3\\AuthorizationWindow.xaml",
+              "RelativeToolTip": "Task3\\AuthorizationWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-30T12:30:28.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\temp\\ispp31\\PractWorks\\PractWork5\\Task3\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Task3\\MainWindow.xaml",
+              "ToolTip": "C:\\temp\\ispp31\\PractWorks\\PractWork5\\Task3\\MainWindow.xaml",
+              "RelativeToolTip": "Task3\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-30T12:28:34.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\PractWorks\\PractWork5\\Task3\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Task3\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\temp\\ispp31\\PractWorks\\PractWork5\\Task3\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Task3\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T12:28:34.018Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

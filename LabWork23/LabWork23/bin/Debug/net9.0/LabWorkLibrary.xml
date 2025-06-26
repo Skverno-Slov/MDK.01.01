@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LabWorkLibrary</name>
+    </assembly>
+    <members>
+        <member name="F:LabWorkLibrary.Maths.BinaryFactor">
+            <summary>
+            Константа, равная 1024.
+            </summary>
+        </member>
+        <member name="M:LabWorkLibrary.Maths.Sum(System.Double,System.Double)">
+            <summary>
+            Возвращает сумму чисел a и b.
+            </summary>
+            <param name="a">первое слагаемое</param>
+            <param name="b">второе слагаемое</param>
+            <returns>сумма двух слагаемых</returns>
+        </member>
+        <member name="M:LabWorkLibrary.Maths.Subtract(System.Double,System.Double)">
+            <summary>
+            Возвращает разность чисел a и b.
+            </summary>
+            <param name="a">уменьшаемое</param>
+            <param name="b">вычитаемое</param>
+            <returns>разность двух чисел</returns>
+        </member>
+        <member name="M:LabWorkLibrary.Maths.Multiplay(System.Double,System.Double)">
+            <summary>
+            Возвращает произведение двух множителей.
+            </summary>
+            <param name="a">первый множитель</param>
+            <param name="b">второй множитель</param>
+            <returns>произведение двух множителей</returns>
+        </member>
+        <member name="M:LabWorkLibrary.Maths.Divide(System.Double,System.Double)">
+            <summary>
+            Возвращает значение частного двух чисел.
+            </summary>
+            <param name="a">делимое</param>
+            <param name="b">делитель</param>
+            <returns>частное двух чисел</returns>
+            <exceprion cref ="T:System.DivideByZeroException">деление на ноль</exceprion>
+        </member>
+        <member name="M:LabWorkLibrary.Maths.GetArea(System.Double,System.Double)">
+            <summary>
+            Вычисление площади прямоугольника.
+            </summary>
+            <param name="a">длина стороны</param>
+            <param name="b">ширина стороны</param>
+            <returns>площадь прямоугольника</returns>
+            <exception cref = "T:System.ArgumentException">введено отрицательное или равное нулю значение</exception>
+        </member>
+    </members>
+</doc>

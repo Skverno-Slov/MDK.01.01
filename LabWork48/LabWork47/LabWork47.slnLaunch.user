@@ -1,0 +1,28 @@
+[
+  {
+    "Name": "Api + console",
+    "Projects": [
+      {
+        "Path": "TestWebApplication\\TestWebApplication.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "TestApiConsoleApp\\TestApiConsoleApp.csproj",
+        "Action": "Start"
+      }
+    ]
+  },
+  {
+    "Name": "Api + web",
+    "Projects": [
+      {
+        "Path": "ApiService\\ApiService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "TestPagesWeb\\TestPagesWeb.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

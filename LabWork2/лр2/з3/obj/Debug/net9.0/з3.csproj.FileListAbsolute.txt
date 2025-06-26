@@ -1,0 +1,14 @@
+C:\Users\THUNDER\source\repos\лр2\з3\bin\Debug\net9.0\з3.exe
+C:\Users\THUNDER\source\repos\лр2\з3\bin\Debug\net9.0\з3.deps.json
+C:\Users\THUNDER\source\repos\лр2\з3\bin\Debug\net9.0\з3.runtimeconfig.json
+C:\Users\THUNDER\source\repos\лр2\з3\bin\Debug\net9.0\з3.dll
+C:\Users\THUNDER\source\repos\лр2\з3\bin\Debug\net9.0\з3.pdb
+C:\Users\THUNDER\source\repos\лр2\з3\obj\Debug\net9.0\з3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THUNDER\source\repos\лр2\з3\obj\Debug\net9.0\з3.AssemblyInfoInputs.cache
+C:\Users\THUNDER\source\repos\лр2\з3\obj\Debug\net9.0\з3.AssemblyInfo.cs
+C:\Users\THUNDER\source\repos\лр2\з3\obj\Debug\net9.0\з3.csproj.CoreCompileInputs.cache
+C:\Users\THUNDER\source\repos\лр2\з3\obj\Debug\net9.0\з3.dll
+C:\Users\THUNDER\source\repos\лр2\з3\obj\Debug\net9.0\refint\з3.dll
+C:\Users\THUNDER\source\repos\лр2\з3\obj\Debug\net9.0\з3.pdb
+C:\Users\THUNDER\source\repos\лр2\з3\obj\Debug\net9.0\з3.genruntimeconfig.cache
+C:\Users\THUNDER\source\repos\лр2\з3\obj\Debug\net9.0\ref\з3.dll

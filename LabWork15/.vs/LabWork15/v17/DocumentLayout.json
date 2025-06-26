@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\ispp31\\\u041B\u0430\u0431\u044B\\LabWork15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{060D3E0C-CC1F-4814-92DF-694697E75FFF}|Task1\\Task1.csproj|c:\\temp\\ispp31\\\u043B\u0430\u0431\u044B\\labwork15\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060D3E0C-CC1F-4814-92DF-694697E75FFF}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA835567-579A-4286-B39F-DC1F549AE80C}|Task3\\Task3.csproj|c:\\temp\\ispp31\\\u043B\u0430\u0431\u044B\\labwork15\\task3\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA835567-579A-4286-B39F-DC1F549AE80C}|Task3\\Task3.csproj|solutionrelative:task3\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA835567-579A-4286-B39F-DC1F549AE80C}|Task3\\Task3.csproj|c:\\temp\\ispp31\\\u043B\u0430\u0431\u044B\\labwork15\\task3\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA835567-579A-4286-B39F-DC1F549AE80C}|Task3\\Task3.csproj|solutionrelative:task3\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA835567-579A-4286-B39F-DC1F549AE80C}|Task3\\Task3.csproj|c:\\temp\\ispp31\\\u043B\u0430\u0431\u044B\\labwork15\\task3\\replacementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA835567-579A-4286-B39F-DC1F549AE80C}|Task3\\Task3.csproj|solutionrelative:task3\\replacementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA835567-579A-4286-B39F-DC1F549AE80C}|Task3\\Task3.csproj|c:\\temp\\ispp31\\\u043B\u0430\u0431\u044B\\labwork15\\task3\\replacementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA835567-579A-4286-B39F-DC1F549AE80C}|Task3\\Task3.csproj|solutionrelative:task3\\replacementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA835567-579A-4286-B39F-DC1F549AE80C}|Task3\\Task3.csproj|c:\\temp\\ispp31\\\u043B\u0430\u0431\u044B\\labwork15\\task3\\replacementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA835567-579A-4286-B39F-DC1F549AE80C}|Task3\\Task3.csproj|solutionrelative:task3\\replacementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 130,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\\u041B\u0430\u0431\u044B\\LabWork15\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Task1\\Program.cs",
+              "ToolTip": "C:\\temp\\ispp31\\\u041B\u0430\u0431\u044B\\LabWork15\\Task1\\Program.cs",
+              "RelativeToolTip": "Task1\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T13:56:00.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReplacementForm.Designer.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\\u041B\u0430\u0431\u044B\\LabWork15\\Task3\\ReplacementForm.Designer.cs",
+              "RelativeDocumentMoniker": "Task3\\ReplacementForm.Designer.cs",
+              "ToolTip": "C:\\temp\\ispp31\\\u041B\u0430\u0431\u044B\\LabWork15\\Task3\\ReplacementForm.Designer.cs",
+              "RelativeToolTip": "Task3\\ReplacementForm.Designer.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAvwC4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T13:53:11.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReplacementForm.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\\u041B\u0430\u0431\u044B\\LabWork15\\Task3\\ReplacementForm.cs",
+              "RelativeDocumentMoniker": "Task3\\ReplacementForm.cs",
+              "ToolTip": "C:\\temp\\ispp31\\\u041B\u0430\u0431\u044B\\LabWork15\\Task3\\ReplacementForm.cs",
+              "RelativeToolTip": "Task3\\ReplacementForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T13:51:17.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReplacementForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\temp\\ispp31\\\u041B\u0430\u0431\u044B\\LabWork15\\Task3\\ReplacementForm.cs",
+              "RelativeDocumentMoniker": "Task3\\ReplacementForm.cs",
+              "ToolTip": "C:\\temp\\ispp31\\\u041B\u0430\u0431\u044B\\LabWork15\\Task3\\ReplacementForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Task3\\ReplacementForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T13:51:14.28Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\\u041B\u0430\u0431\u044B\\LabWork15\\Task3\\MainForm.cs",
+              "RelativeDocumentMoniker": "Task3\\MainForm.cs",
+              "ToolTip": "C:\\temp\\ispp31\\\u041B\u0430\u0431\u044B\\LabWork15\\Task3\\MainForm.cs",
+              "RelativeToolTip": "Task3\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T13:50:10.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\temp\\ispp31\\\u041B\u0430\u0431\u044B\\LabWork15\\Task3\\MainForm.cs",
+              "RelativeDocumentMoniker": "Task3\\MainForm.cs",
+              "ToolTip": "C:\\temp\\ispp31\\\u041B\u0430\u0431\u044B\\LabWork15\\Task3\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Task3\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T13:50:06.776Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

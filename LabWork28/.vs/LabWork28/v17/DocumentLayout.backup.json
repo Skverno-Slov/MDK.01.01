@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\LabWorks\\LabWork28\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA52CB0-73C2-4A1C-871B-252E3305EB7A}|Task4\\Task4.csproj|c:\\users\\thunder\\onedrive\\desktop\\labworks\\labwork28\\task4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5FA52CB0-73C2-4A1C-871B-252E3305EB7A}|Task4\\Task4.csproj|solutionrelative:task4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA52CB0-73C2-4A1C-871B-252E3305EB7A}|Task4\\Task4.csproj|c:\\users\\thunder\\onedrive\\desktop\\labworks\\labwork28\\task4\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5FA52CB0-73C2-4A1C-871B-252E3305EB7A}|Task4\\Task4.csproj|solutionrelative:task4\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2EF8970-6220-4108-9E4E-CC0B292B791A}|Task3\\Task3.csproj|c:\\users\\thunder\\onedrive\\desktop\\labworks\\labwork28\\task3\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D2EF8970-6220-4108-9E4E-CC0B292B791A}|Task3\\Task3.csproj|solutionrelative:task3\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F122DC-B985-48BC-B30C-C24B5B42918D}|Task2\\Task2.csproj|c:\\users\\thunder\\onedrive\\desktop\\labworks\\labwork28\\task2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F7F122DC-B985-48BC-B30C-C24B5B42918D}|Task2\\Task2.csproj|solutionrelative:task2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F122DC-B985-48BC-B30C-C24B5B42918D}|Task2\\Task2.csproj|c:\\users\\thunder\\onedrive\\desktop\\labworks\\labwork28\\task2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F7F122DC-B985-48BC-B30C-C24B5B42918D}|Task2\\Task2.csproj|solutionrelative:task2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C46086-0AD8-4717-8259-8593FBFB051F}|LabWork28\\Task1.csproj|c:\\users\\thunder\\onedrive\\desktop\\labworks\\labwork28\\labwork28\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D3C46086-0AD8-4717-8259-8593FBFB051F}|LabWork28\\Task1.csproj|solutionrelative:labwork28\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA52CB0-73C2-4A1C-871B-252E3305EB7A}|Task4\\Task4.csproj|c:\\users\\thunder\\onedrive\\desktop\\labworks\\labwork28\\task4\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{5FA52CB0-73C2-4A1C-871B-252E3305EB7A}|Task4\\Task4.csproj|solutionrelative:task4\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA52CB0-73C2-4A1C-871B-252E3305EB7A}|Task4\\Task4.csproj|c:\\users\\thunder\\onedrive\\desktop\\labworks\\labwork28\\task4\\themes\\lighttheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5FA52CB0-73C2-4A1C-871B-252E3305EB7A}|Task4\\Task4.csproj|solutionrelative:task4\\themes\\lighttheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA52CB0-73C2-4A1C-871B-252E3305EB7A}|Task4\\Task4.csproj|c:\\users\\thunder\\onedrive\\desktop\\labworks\\labwork28\\task4\\themes\\darktheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5FA52CB0-73C2-4A1C-871B-252E3305EB7A}|Task4\\Task4.csproj|solutionrelative:task4\\themes\\darktheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\LabWorks\\LabWork28\\Task3\\App.xaml",
+              "RelativeDocumentMoniker": "Task3\\App.xaml",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\LabWorks\\LabWork28\\Task3\\App.xaml",
+              "RelativeToolTip": "Task3\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-26T14:35:34.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\LabWorks\\LabWork28\\Task2\\App.xaml",
+              "RelativeDocumentMoniker": "Task2\\App.xaml",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\LabWorks\\LabWork28\\Task2\\App.xaml",
+              "RelativeToolTip": "Task2\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-26T14:27:20.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\LabWorks\\LabWork28\\Task2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Task2\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\LabWorks\\LabWork28\\Task2\\MainWindow.xaml",
+              "RelativeToolTip": "Task2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-26T14:26:55.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\LabWorks\\LabWork28\\LabWork28\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LabWork28\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\LabWorks\\LabWork28\\LabWork28\\MainWindow.xaml",
+              "RelativeToolTip": "LabWork28\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-26T14:25:52.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DarkTheme.xaml",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\LabWorks\\LabWork28\\Task4\\Themes\\DarkTheme.xaml",
+              "RelativeDocumentMoniker": "Task4\\Themes\\DarkTheme.xaml",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\LabWorks\\LabWork28\\Task4\\Themes\\DarkTheme.xaml",
+              "RelativeToolTip": "Task4\\Themes\\DarkTheme.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-22T11:18:35.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LightTheme.xaml",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\LabWorks\\LabWork28\\Task4\\Themes\\LightTheme.xaml",
+              "RelativeDocumentMoniker": "Task4\\Themes\\LightTheme.xaml",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\LabWorks\\LabWork28\\Task4\\Themes\\LightTheme.xaml",
+              "RelativeToolTip": "Task4\\Themes\\LightTheme.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-22T11:18:32.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\LabWorks\\LabWork28\\Task4\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Task4\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\LabWorks\\LabWork28\\Task4\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Task4\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwBoAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T11:13:05.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\LabWorks\\LabWork28\\Task4\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Task4\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\LabWorks\\LabWork28\\Task4\\MainWindow.xaml",
+              "RelativeToolTip": "Task4\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-22T10:53:24.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\LabWorks\\LabWork28\\Task4\\App.xaml",
+              "RelativeDocumentMoniker": "Task4\\App.xaml",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\LabWorks\\LabWork28\\Task4\\App.xaml",
+              "RelativeToolTip": "Task4\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-22T10:49:55.994Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

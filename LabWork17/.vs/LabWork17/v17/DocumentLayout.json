@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\ispp31\\\u041B\u0430\u0431\u044B\\LabWork17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D40037F-89C9-4151-8B3C-A454425A4406}|LabWork17\\LabWork17.csproj|c:\\temp\\ispp31\\\u043B\u0430\u0431\u044B\\labwork17\\labwork17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D40037F-89C9-4151-8B3C-A454425A4406}|LabWork17\\LabWork17.csproj|solutionrelative:labwork17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 130,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\\u041B\u0430\u0431\u044B\\LabWork17\\LabWork17\\Program.cs",
+              "RelativeDocumentMoniker": "LabWork17\\Program.cs",
+              "ToolTip": "C:\\temp\\ispp31\\\u041B\u0430\u0431\u044B\\LabWork17\\LabWork17\\Program.cs",
+              "RelativeToolTip": "LabWork17\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T11:31:19.468Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

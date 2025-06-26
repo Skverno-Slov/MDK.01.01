@@ -1,0 +1,24 @@
+﻿<Window x:Class="Task3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task3"
+        mc:Ignorable="d"
+        Title="Задание 3" Height="500" Width="800">
+    <StackPanel>
+        <StackPanel>
+            <MediaElement x:Name="VideoPlayer"
+              LoadedBehavior="Play"
+              MediaEnded="VideoPlayer_MediaEnded"
+              Stretch="Uniform"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button x:Name="FirstSystemSoundButton" Content="Системный звук 1" Click="FirstSystemSoundButton_Click"/>
+            <Button x:Name="SecondSystemSoundButton" Content="Системный звук 2" Click="SecondSystemSoundButton_Click"/>
+            <Button x:Name="FirstFileSoundButton" Content="Звук из файла 1" Click="FirstFileSoundButton_Click"/>
+            <Button x:Name="SecondFileSoundButton" Content="Звук из файла 2" Click="SecondFileSoundButton_Click"/>
+        </StackPanel>
+    </StackPanel>
+</Window>

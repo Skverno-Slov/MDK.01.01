@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\ispp31\\\u041B\u0430\u0431\u044B\\\u043B\u04402-20250121T072322Z-001\\\u043B\u04402\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE17C467-97AA-4C1D-A83A-C31616EBBE9F}|Task1\\Task1.csproj|c:\\temp\\ispp31\\\u043B\u0430\u0431\u044B\\\u043B\u04402-20250121t072322z-001\\\u043B\u04402\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE17C467-97AA-4C1D-A83A-C31616EBBE9F}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7A54F4-72E5-4AB9-8971-898588E188E5}|\u04373\\Task3.csproj|c:\\temp\\ispp31\\\u043B\u0430\u0431\u044B\\\u043B\u04402-20250121t072322z-001\\\u043B\u04402\\\u04373\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E7A54F4-72E5-4AB9-8971-898588E188E5}|\u04373\\Task3.csproj|solutionrelative:\u04373\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468604C6-607B-434B-B672-B93038CA20AB}|\u043B\u04402\\Task2.csproj|c:\\temp\\ispp31\\\u043B\u0430\u0431\u044B\\\u043B\u04402-20250121t072322z-001\\\u043B\u04402\\\u043B\u04402\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468604C6-607B-434B-B672-B93038CA20AB}|\u043B\u04402\\Task2.csproj|solutionrelative:\u043B\u04402\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\\u041B\u0430\u0431\u044B\\\u043B\u04402-20250121T072322Z-001\\\u043B\u04402\\\u04373\\Program.cs",
+              "RelativeDocumentMoniker": "\u04373\\Program.cs",
+              "ToolTip": "C:\\temp\\ispp31\\\u041B\u0430\u0431\u044B\\\u043B\u04402-20250121T072322Z-001\\\u043B\u04402\\\u04373\\Program.cs",
+              "RelativeToolTip": "\u04373\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T14:04:33.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\\u041B\u0430\u0431\u044B\\\u043B\u04402-20250121T072322Z-001\\\u043B\u04402\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Task1\\Program.cs",
+              "ToolTip": "C:\\temp\\ispp31\\\u041B\u0430\u0431\u044B\\\u043B\u04402-20250121T072322Z-001\\\u043B\u04402\\Task1\\Program.cs",
+              "RelativeToolTip": "Task1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T16:34:05.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\\u041B\u0430\u0431\u044B\\\u043B\u04402-20250121T072322Z-001\\\u043B\u04402\\\u043B\u04402\\Program.cs",
+              "RelativeDocumentMoniker": "\u043B\u04402\\Program.cs",
+              "ToolTip": "C:\\temp\\ispp31\\\u041B\u0430\u0431\u044B\\\u043B\u04402-20250121T072322Z-001\\\u043B\u04402\\\u043B\u04402\\Program.cs",
+              "RelativeToolTip": "\u043B\u04402\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:19:59.316Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

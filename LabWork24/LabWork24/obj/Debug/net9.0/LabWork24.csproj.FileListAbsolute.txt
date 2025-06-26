@@ -1,0 +1,14 @@
+C:\Users\THUNDER\OneDrive\Desktop\LabWork24\LabWork24\bin\Debug\net9.0\LabWork24.exe
+C:\Users\THUNDER\OneDrive\Desktop\LabWork24\LabWork24\bin\Debug\net9.0\LabWork24.deps.json
+C:\Users\THUNDER\OneDrive\Desktop\LabWork24\LabWork24\bin\Debug\net9.0\LabWork24.runtimeconfig.json
+C:\Users\THUNDER\OneDrive\Desktop\LabWork24\LabWork24\bin\Debug\net9.0\LabWork24.dll
+C:\Users\THUNDER\OneDrive\Desktop\LabWork24\LabWork24\bin\Debug\net9.0\LabWork24.pdb
+C:\Users\THUNDER\OneDrive\Desktop\LabWork24\LabWork24\obj\Debug\net9.0\LabWork24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THUNDER\OneDrive\Desktop\LabWork24\LabWork24\obj\Debug\net9.0\LabWork24.AssemblyInfoInputs.cache
+C:\Users\THUNDER\OneDrive\Desktop\LabWork24\LabWork24\obj\Debug\net9.0\LabWork24.AssemblyInfo.cs
+C:\Users\THUNDER\OneDrive\Desktop\LabWork24\LabWork24\obj\Debug\net9.0\LabWork24.csproj.CoreCompileInputs.cache
+C:\Users\THUNDER\OneDrive\Desktop\LabWork24\LabWork24\obj\Debug\net9.0\LabWork24.dll
+C:\Users\THUNDER\OneDrive\Desktop\LabWork24\LabWork24\obj\Debug\net9.0\refint\LabWork24.dll
+C:\Users\THUNDER\OneDrive\Desktop\LabWork24\LabWork24\obj\Debug\net9.0\LabWork24.pdb
+C:\Users\THUNDER\OneDrive\Desktop\LabWork24\LabWork24\obj\Debug\net9.0\LabWork24.genruntimeconfig.cache
+C:\Users\THUNDER\OneDrive\Desktop\LabWork24\LabWork24\obj\Debug\net9.0\ref\LabWork24.dll

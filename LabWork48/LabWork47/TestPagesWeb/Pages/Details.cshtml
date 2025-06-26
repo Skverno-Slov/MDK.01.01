@@ -1,0 +1,23 @@
+﻿@page
+@model TestPagesWeb.Pages.Shared.DetailsModel
+@{
+}
+
+<form method="post">
+    <label asp-for="Game.Id" />
+    <input asp-for="Game.Id" readonly/>
+    <br />
+    <label asp-for="Game.Title" />
+    <input asp-for="Game.Title" />
+    <br />
+    <label asp-for="Game.Description" />
+    <input asp-for="Game.Description" />
+    <br />
+    <label asp-for="Game.Price" />
+    <input asp-for="Game.Price" />
+    <br />
+    <label asp-for="Game.PublicationYear" />
+    <input asp-for="Game.PublicationYear" />
+    <br />
+    <button type="submit" class="btn">save</button>
+</form>

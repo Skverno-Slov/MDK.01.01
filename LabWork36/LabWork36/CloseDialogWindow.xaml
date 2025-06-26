@@ -1,0 +1,29 @@
+﻿<Window x:Class="LabWork36.CloseDialogWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LabWork36"
+        mc:Ignorable="d"
+        Title="DialogWindow" Height="300" Width="550">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="Вы хотите закрыть приложение?" FontSize="20" Grid.ColumnSpan="2" HorizontalAlignment="Center" Padding="0,35,0,0"/>
+        <StackPanel Orientation="Horizontal" Grid.Row="1" Grid.Column="1" Margin="10">
+            <Button x:Name="AcceptClosingButton" Content="Да" Width="100" Height="50" Margin="20"
+                    FontSize="20" FontWeight="Bold" Background="Lime" IsDefault="True" Click="AcceptClosingButton_Click"/>
+            <Button x:Name="CancelClosingButton" Content="Нет" Width="100" Height="50" 
+                    FontSize="20" FontWeight="Bold" Background="Red" IsCancel="True"/>
+        </StackPanel>
+        <Image Source="/question.png" Width="100" Grid.Row="1"/>
+    </Grid>
+</Window>

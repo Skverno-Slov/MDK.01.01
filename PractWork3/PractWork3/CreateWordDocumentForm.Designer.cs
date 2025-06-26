@@ -90,9 +90,11 @@
             // InputTaskCountNumericUpDown
             // 
             InputTaskCountNumericUpDown.Location = new Point(514, 166);
+            InputTaskCountNumericUpDown.Minimum = new decimal(new int[] { 1, 0, 0, 0 });
             InputTaskCountNumericUpDown.Name = "InputTaskCountNumericUpDown";
             InputTaskCountNumericUpDown.Size = new Size(152, 27);
             InputTaskCountNumericUpDown.TabIndex = 6;
+            InputTaskCountNumericUpDown.Value = new decimal(new int[] { 1, 0, 0, 0 });
             // 
             // CreateWordDocumentForm
             // 
