@@ -1,5 +1,4 @@
-﻿// Задание 5
-using Task5;
+﻿using Task5;
 
 Configuration configuration = Configuration.GetInstance();
 

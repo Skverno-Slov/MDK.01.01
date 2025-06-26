@@ -1,5 +1,4 @@
-﻿// Задание 3
-using Task3;
+﻿using Task3;
 
 IShape circle = new Circle();
 Console.WriteLine("Circle with normal border");

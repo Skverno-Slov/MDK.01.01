@@ -1,5 +1,4 @@
-﻿// Задания 4
-using Task4;
+﻿using Task4;
 
 Subject subject = new Subject();
 
